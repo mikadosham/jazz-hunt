@@ -2,9 +2,9 @@ import React from "react";
 
 function SongList({ songs, onSelectSong }) {
   return (
-    <div>
+    <div className="list-wrapper">
       {songs.length > 0 && (
-        <ul style={{ marginTop: "10px", listStyleType: "none", padding: 0 }}>
+        <ul className="song-list">
           {songs.map((song) => (
             <li
               key={song.title}

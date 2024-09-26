@@ -5,6 +5,9 @@ import SearchBar from "../components/SearchBar";
 import SongList from "../components/SongList";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
+import KeySelector from "../components/KeySelector";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faExpand, faCompress } from "@fortawesome/free-solid-svg-icons";
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 
@@ -15,7 +18,7 @@ function HomePage() {
   const [selectedKey, setSelectedKey] = useState("c"); // Default to 'c'
   const [result, setResult] = useState(null);
   const [pages, setPages] = useState([]); // Holds the images for all pages
-  const [isFullScreen, setIsFullScreen] = useState(false); // State to handle full screen mode
+  const [isFullScreen, setIsFullScreen] = useState(false); // State to handle fullscreen mode
 
   useEffect(() => {
     fetch("/real_book_contents.json")
@@ -28,6 +31,8 @@ function HomePage() {
   const handleSearchChange = (e) => {
     const query = e.target.value.toLowerCase();
     setQuery(query);
+    setResult(null);
+
     if (query && songData.length > 0) {
       const filtered = songData.filter((song) =>
         song.title.toLowerCase().includes(query)
@@ -38,19 +43,26 @@ function HomePage() {
     }
   };
 
-  const handleKeyChange = (e) => {
-    setSelectedKey(e.target.value);
+  const handleKeyChange = (key) => {
+    setSelectedKey(key);
     if (result) {
-      renderPages(result.page, result[e.target.value], result.num_pages);
+      renderPages(result.page, result[key], result.num_pages);
     }
   };
 
   const handleSelectSong = (song) => {
+    console.log("Selected song:", song);
+
     setResult(song);
     setFilteredSongs([]);
+    setQuery(song.title); // Update the search input with the selected song's title
 
     const availableKeys = ["c", "bass", "bb", "eb"];
     const firstAvailableKey = availableKeys.find((key) => song[key] !== "null");
+
+    console.log("Selected key:", firstAvailableKey);
+    console.log("PDF URL for Bb:", song.bb);
+    console.log("Starting page number:", song.page);
 
     if (firstAvailableKey) {
       setSelectedKey(firstAvailableKey);
@@ -58,83 +70,90 @@ function HomePage() {
     }
   };
 
-  const renderPages = async (startPage, pdfUrl, numPages) => {
-    const url = pdfUrl || "/real_books/default.pdf"; // Use default or a fallback if URL is missing
-    const loadingTask = pdfjsLib.getDocument(url);
-
-    loadingTask.promise.then((pdf) => {
-      const pagesArray = [];
-      for (let i = 0; i < numPages; i++) {
-        pdf.getPage(startPage + i).then((page) => {
+  const renderPages = (startPage, pdfUrl, numPages) => {
+    pdfjsLib
+      .getDocument(pdfUrl)
+      .promise.then((pdf) => {
+        const pagePromises = [];
+        for (let i = 0; i < numPages; i++) {
+          pagePromises.push(pdf.getPage(startPage + i));
+        }
+        return Promise.all(pagePromises);
+      })
+      .then((pages) => {
+        const pageImages = pages.map((page) => {
           const viewport = page.getViewport({ scale: 1.5 });
           const canvas = document.createElement("canvas");
           const context = canvas.getContext("2d");
           canvas.height = viewport.height;
           canvas.width = viewport.width;
 
-          const renderContext = {
-            canvasContext: context,
-            viewport: viewport,
-          };
-          page.render(renderContext).promise.then(() => {
-            pagesArray.push(canvas.toDataURL());
-            if (pagesArray.length === numPages) {
-              setPages(pagesArray); // Only set the pages state once all pages are rendered
-            }
-          });
+          // Render the page onto the canvas and return a promise
+          return page
+            .render({ canvasContext: context, viewport })
+            .promise.then(() => {
+              return canvas.toDataURL();
+            });
         });
+        return Promise.all(pageImages);
+      })
+      .then((images) => {
+        setPages(images);
+      })
+      .catch((error) => {
+        console.error("Error rendering pages:", error);
+      });
+  };
+
+  const toggleFullscreen = () => {
+    if (!isFullScreen) {
+      if (document.documentElement.requestFullscreen) {
+        document.documentElement.requestFullscreen();
       }
-    });
+    } else {
+      if (document.exitFullscreen) {
+        document.exitFullscreen();
+      }
+    }
+    setIsFullScreen(!isFullScreen);
   };
 
   return (
-    <div style={{ padding: "20px" }}>
-      <h1>Search for a Song</h1>
-      <SearchBar
-        query={query}
-        onSearchChange={handleSearchChange}
-        selectedKey={selectedKey}
-        onKeyChange={handleKeyChange}
-      />
-
+    <div className="main">
+      <SearchBar query={query} onSearchChange={handleSearchChange} />
       <SongList songs={filteredSongs} onSelectSong={handleSelectSong} />
 
-      {result && pages.length > 0 && (
-        <div style={{ marginTop: "20px" }}>
-          <p>
-            Found "{result.title}" on page {result.page} ({pages.length}{" "}
-            {pages.length > 1 ? "pages" : "page"})
-          </p>
-          <button onClick={() => setIsFullScreen(true)}>View Fullscreen</button>
+      {result && (
+        <div className="results">
+          <div className="settings-wrapper">
+            <button
+              onClick={toggleFullscreen}
+              className={
+                isFullScreen
+                  ? "fullscreen-icon compress"
+                  : "fullscreen-icon expand"
+              }
+            >
+              <FontAwesomeIcon icon={isFullScreen ? faCompress : faExpand} />
+            </button>
+            <KeySelector
+              availableKeys={["c", "bass", "bb", "eb"].filter(
+                (key) => result[key] !== "null"
+              )}
+              selectedKey={selectedKey}
+              onKeyChange={handleKeyChange}
+            />
+          </div>
           <div
-            className={
-              isFullScreen
-                ? "fullscreen-carousel carousel-wrapper"
-                : "carousel-wrapper"
-            }
+            className={`carousel-container ${isFullScreen ? "fullscreen" : ""}`}
           >
-            <Carousel showThumbs={false} infiniteLoop>
+            <Carousel>
               {pages.map((page, index) => (
                 <div key={index}>
                   <img src={page} alt={`Page ${index + 1}`} />
                 </div>
               ))}
             </Carousel>
-            {isFullScreen && (
-              <button
-                style={{
-                  marginTop: "10px",
-                  padding: "10px",
-                  zIndex: 1100,
-                  position: "absolute",
-                  top: "10px",
-                  right: "10px",
-                }}
-                onClick={() => setIsFullScreen(false)}
-              >
-                Exit Fullscreen
-              </button>
-            )}
           </div>
         </div>
       )}

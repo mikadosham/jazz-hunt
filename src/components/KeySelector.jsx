@@ -1,24 +1,45 @@
-import React from "react";
+import React, { useState } from "react";
+import "../CustomSelector.css";
 
-function KeySelector({ availableKeys, selectedKey, onKeyChange }) {
-  if (availableKeys.length === 0) return null;
+const CustomSelector = ({ availableKeys, selectedKey, onKeyChange }) => {
+  const [isListOpen, setIsListOpen] = useState(false);
+  const [placeholder, setPlaceholder] = useState(selectedKey.toUpperCase());
+
+  const toggleList = () => {
+    setIsListOpen(!isListOpen);
+  };
+
+  const handleSelection = (key) => {
+    setPlaceholder(key.toUpperCase());
+    onKeyChange(key);
+    setIsListOpen(false);
+  };
 
   return (
-    <div style={{ marginTop: "10px" }}>
-      <label>Select a Key:</label>
-      <select
-        value={selectedKey}
-        onChange={(e) => onKeyChange(e.target.value)}
-        style={{ marginLeft: "10px" }}
-      >
-        {availableKeys.map((key) => (
-          <option key={key} value={key}>
-            {key.toUpperCase()}
-          </option>
-        ))}
-      </select>
+    <div className="wrapper typo">
+      Key:
+      <div className="list">
+        <span className="placeholder" onClick={toggleList}>
+          {placeholder}
+        </span>
+        <ul className={`list__ul ${isListOpen ? "active" : ""}`}>
+          {availableKeys.map((key) => (
+            <li key={key}>
+              <a
+                href="#"
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleSelection(key);
+                }}
+              >
+                {key.toLowerCase()}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   );
-}
+};
 
-export default KeySelector;
+export default CustomSelector;

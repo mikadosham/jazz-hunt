@@ -1,0 +1,331 @@
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
+
+.main {
+  margin: auto;
+}
+
+.slide.selected {
+  text-align: center;
+}
+
+.slide.selected img {
+  max-width: 605px;
+}
+
+.carousel-status {
+  display: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Gloria Hallelujah", cursive;
+}
+
+.header {
+  position: relative;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.logo {
+  max-width: 150px;
+}
+.container {
+  position: relative;
+}
+.main {
+  width: 100%;
+}
+
+.hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.field {
+  font-family: "Gloria Hallelujah", cursive;
+  position: relative;
+  margin-top: 10px;
+  display: flex;
+  flex-flow: column-reverse;
+  text-align: center;
+  max-width: 368px;
+  margin: auto;
+  margin-top: 50px;
+}
+label,
+input {
+  font-family: "Gloria Hallelujah", cursive;
+  transition: all 200ms ease;
+}
+input {
+  font-size: 18px;
+  border: 0;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
+  padding: 5px 17px;
+  text-align: center;
+}
+input:focus {
+  outline: 0;
+  border-color: #7b00ff;
+}
+input:-moz-placeholder-shown + label {
+  cursor: text;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transform-origin: center bottom;
+  transform: translate(0, 2.125em) scale(1.5);
+}
+input:-ms-input-placeholder + label {
+  cursor: text;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transform-origin: left bottom;
+  transform: translate(0, 2.125em) scale(1.5);
+}
+input:placeholder-shown + label {
+  cursor: text;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transform-origin: center bottom;
+  transform: translate(0, 3.125em) scale(1.5);
+}
+input:not(:-moz-placeholder-shown) + label {
+  transform: translate(0, 0) scale(1);
+  cursor: default;
+  color: #7b00ff;
+}
+input:not(:-ms-input-placeholder) + label {
+  transform: translate(0, 0) scale(1);
+  cursor: default;
+  color: #7b00ff;
+}
+input:not(:placeholder-shown) + label,
+input:focus + label {
+  transform: translate(0, 0) scale(0.8);
+  cursor: default;
+  color: #7b00ff;
+}
+label {
+  color: #ccc;
+  font-size: 12px;
+}
+
+.pulse {
+  animation: pulsate 3s ease-out;
+  animation-iteration-count: infinite;
+  opacity: 0.3;
+}
+@keyframes pulsate {
+  0% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+::-webkit-input-placeholder {
+  opacity: 0;
+  -webkit-transition: inherit;
+  transition: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.list-wrapper {
+  position: absolute;
+  width: 100%;
+}
+
+.song-list {
+  font-family: "Gloria Hallelujah", cursive;
+  list-style-position: inside;
+  max-width: 400px;
+  box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+  padding: 0px 16px;
+  margin: 0;
+  border-radius: 0.1rem;
+  text-transform: lowercase;
+  margin-top: 10px;
+  list-style-type: none;
+  position: relative;
+  top: -16px;
+  margin: auto;
+  border-radius: 23px;
+}
+
+li {
+  padding: 0 0 0 1rem;
+}
+
+li:not(:last-child) {
+  border-bottom: 1px solid lightblue;
+}
+
+li:first-child {
+  margin-top: 1rem;
+}
+
+li:last-child {
+  margin-bottom: 1rem;
+}
+
+::marker {
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' width='14' viewBox='0 0 50 50'%3E%3Cpath d='M46.4 16.2c-2.3-2.3-5.4-3.5-8.4-4.5-.5-.2-1.1-.3-1.6-.5-1.6-1.6-3.7-2.8-6.2-3.2-1-.2-1.9.1-2.5.6-.9-.3-1.8-.6-2.7-.8-3.2-1-6.4-1.8-9.5-.1-1 .5-1.9 1.2-2.7 2-6.4 1.4-11.7 5-12.4 12.7C0 27 1.9 31.5 4.9 34.9c.1.6.2 1.1.4 1.7 1 3.2 3.3 5.7 6.7 6.5 2.7.6 5.4-.2 7.9-1.2 3.3.4 6.7.3 9.9 0 6.5-.7 13.3-2.8 17.1-8.5 3.6-5.2 4-12.6-.5-17.2zm-17.3.9c2.1.4 4 1.7 4.7 3.8 0 .5-.1 1.1-.2 1.6-.3 1.4-.8 2.6-1.6 3.7-.7.2-1.5.1-2.3-.4-.8-.4-1.6-1-2.2-1.6-.4-.4-1.2-1.7-1.6-1.9 3.4 1.3 5.1-3 3.2-5.2zm-11.6 9.7c.2-1.9 1.1-3.9 2.3-5.5-.4 2.1.3 4.2 1.7 6 1.3 1.7 3.1 3.2 5 4.2-.2.1-.4.2-.6.4-.1 0-.1.1-.2.1-3.9.2-8.7-.8-8.2-5.2zm-6.4 3.1c.1.3.1.7.2 1 .2.6.4 1.2.7 1.8-.4-.2-.7-.5-1-.7.1-.8.1-1.4.1-2.1zm31.2-1.3c-.9 1.7-2.1 3.1-3.7 4.1 2-2.1 3.4-4.7 4-7.6.2-.7.3-1.4.3-2.1.6 1.5.5 3.3-.6 5.6z'/%3E%3C/svg%3E")
+    " ";
+}
+
+li:nth-child(3n)::marker {
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' width='14' viewBox='0 0 50 50'%3E%3Cpath d='M46.5 12.5c-.4-1.1-1.3-1.8-2.2-2-4.2-4-11.6-4.3-17.1-4.1-6.9.3-13.9 2.1-19.4 6.5C2 17.5-2.4 25.7 2.5 32.6c2.2 3.2 5.5 4.9 9 5.5 3.3 1.7 6.7 3.3 10.2 4.4 7.8 2.3 17 1.6 23.2-4.3 7.3-7 4.8-17.3 1.6-25.7zm-20.2 2.7c.6 0 1.3 0 1.8.2 1.1.4 1.7 1.3 2 2.3-1-1.2-2.4-2.1-3.8-2.5zm-1.4 6.6c.9.9 1.3 2.2-.2 2.3-2 .2-1.1-1.9.2-2.3zm-11.8 9.8c-.6-.3-2.9-1.1-3.2-1.8-.2-.5 1.4-3.1 2.1-4.2.3.5.7 1 1.2 1.4 0 .3.1.6.2.8.5 1.9 1.5 3.1 2.9 4h-.2c-.8.1-1.6.1-2.5-.1-.2 0-.3 0-.5-.1zM24 36.4c1.6-.7 3-1.5 4.3-2.5.8.2 1.7.3 2.5.5 2.5.4 5.2.9 7.7.6-.9.6-2 1.1-3 1.4-3.9 1.3-7.7 1-11.5 0z'/%3E%3C/svg%3E")
+    " ";
+}
+
+li:nth-child(3n - 1)::marker {
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' width='14' viewBox='0 0 50 50'%3E%3Cpath d='M48.3 23.7c-1-9.9-9.9-15.6-18.8-17.8-8.2-2.1-18.8-2.6-24.6 4.8C.6 16.2 1 23.6 4.3 29.3c-.5 1-.8 2-1 3-.6 4 2 7.6 5.1 10 5.9 4.4 14 4.2 19.6-.4 1.5 0 2.9-.2 4.4-.5 1.8 0 3.5 0 5.3-.1 2.3-.1 3.5-1.9 3.5-3.7 4.5-3.3 7.7-8.2 7.1-13.9zM9.1 17.8c1.1-4.1 4.9-5.8 8.8-6.1.9-.1 1.9-.1 2.9-.1-3.2 1.6-6.3 4.6-8 7.4-.1.1-.1.2-.2.3-1.1.9-2.1 1.9-3 2.9-.2.2-.4.4-.5.6-.4-1.7-.5-3.3 0-5z'/%3E%3C/svg%3E")
+    " ";
+}
+
+.settings-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.fullscreen-icon {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  font-size: 24px;
+  color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.expand {
+  transition: transform 0.3s ease;
+}
+
+.compress {
+  transition: transform 0.3s ease;
+}
+
+.expand:hover {
+  transform: scale(1.2);
+}
+.compress:hover {
+  transform: scale(0.8);
+}
+
+.transition {
+  transition: all 0.4s ease-in-out;
+}
+
+.wrapper {
+  font-size: 12px;
+}
+
+.list {
+  font-family: "Gloria Hallelujah", cursive;
+  display: inline-block;
+  position: relative;
+  margin-left: 6px;
+}
+
+.list ul {
+  text-align: left;
+  position: absolute;
+  padding: 0;
+  top: 0;
+  left: 0;
+  display: none;
+  marker: none;
+}
+.list ul.active {
+  display: block;
+  z-index: 10;
+}
+
+.list li:first-child a {
+  color: #000000;
+}
+.list a {
+  transition: all 0.4s;
+  color: #000000;
+  position: relative;
+}
+.list a:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #b066ff;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+}
+.list a:hover {
+  cursor: pointer;
+  color: #b066ff;
+}
+.list a:hover:after {
+  width: 100%;
+}
+
+select {
+  display: inline;
+  border: 0;
+  width: auto;
+  margin-left: 10px;
+  outline: none;
+  appearance: none;
+  -moz-appearance: none;
+  border-bottom: 2px solid #555;
+  color: #7b00ff;
+  transition: all 0.4s ease-in-out;
+}
+select:hover {
+  cursor: pointer;
+}
+select option {
+  border: 0;
+  border-bottom: 1px solid #555;
+  padding: 10px;
+  appearance: none;
+  -moz-appearance: none;
+}
+
+.placeholder {
+  border-bottom: 4px solid;
+  cursor: pointer;
+}
+.placeholder:hover {
+  color: #888888;
+}
+
+::marker {
+  content: "" !important;
+}

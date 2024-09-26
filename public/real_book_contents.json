@@ -320,6 +320,17 @@
       "eb": "/real_books/vol1-5th-eb.pdf"
     },
     {
+      "title": "AY, ARRIBA !",
+      "page": 34,
+      "num_pages": 2,
+      "volume": 1,
+      "edition": 5,
+      "c": "/real_books/vol1-5th-c.pdf",
+      "bass": "/real_books/vol1-5th-bass.pdf",
+      "bb": "/real_books/vol1-5th-bb.pdf",
+      "eb": "/real_books/vol1-5th-eb.pdf"
+    },
+    {
       "title": "AUTUMN LEAVES",
       "page": 36,
       "num_pages": 1,
@@ -1057,7 +1068,7 @@
       "eb": "/real_books/vol1-5th-eb.pdf"
     },
     {
-      "title": "DE POIS DE AMOR O'VAZIO",
+      "title": "DE POIS DE AMOR O VAZIO",
       "page": 110,
       "num_pages": 2,
       "volume": 1,
@@ -4478,7 +4489,7 @@
       "eb": "/real_books/vol1-5th-eb.pdf"
     },
     {
-      "title": "Untitled Tune (Vol 1)",
+      "title": "Untitled Tune 1 (Vol 1)",
       "page": 478,
       "num_pages": 2,
       "volume": 1,
@@ -4489,7 +4500,7 @@
       "eb": "/real_books/vol1-5th-eb.pdf"
     },
     {
-      "title": "Untitled Tune (Vol 1)",
+      "title": "Untitled Tune 2 (Vol 1)",
       "page": 480,
       "num_pages": 1,
       "volume": 1,
@@ -4500,7 +4511,7 @@
       "eb": "/real_books/vol1-5th-eb.pdf"
     },
     {
-      "title": "Untitled Tune (Vol 1)",
+      "title": "Untitled Tune 3 (Vol 1)",
       "page": 481,
       "num_pages": 1,
       "volume": 1,

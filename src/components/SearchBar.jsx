@@ -2,14 +2,19 @@ import React from "react";
 
 function SearchBar({ query, onSearchChange }) {
   return (
-    <div>
-      <input
-        type="text"
-        value={query}
-        onChange={onSearchChange}
-        placeholder="Enter song title"
-        style={{ padding: "10px", width: "300px" }}
-      />
+    <div class="container">
+      <div className="field">
+        <input
+          type="text"
+          value={query}
+          onChange={onSearchChange}
+          placeholder="Hunt for a standard"
+          id="search"
+        />
+        <label className="pulse" htmlFor="search">
+          Hunt for a standard
+        </label>
+      </div>
     </div>
   );
 }
