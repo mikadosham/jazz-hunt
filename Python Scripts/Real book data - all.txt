@@ -1,0 +1,1147 @@
+title,page,num_pages,volume,edition,c,bass,bb,eb
+A CALL FOR ALL DEMONS,1,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+A CHILD IS BORN,2,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+A FINE ROMANCE,3,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+A FAMILY JOY,4,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+A FOGGY DAY,6,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+A NIGHT IN TUNISIA,7,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AFRICAN FLOWER,8,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AFRO BLUE,9,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AFTERNOON IN PARIS,10,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AIREGIN,11,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ALICE IN WONDERLAND,12,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ALL BLUES,13,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ALL IN LOVE IS FAIR,14,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ALL MY TOMORROWS,15,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ALL OF ME,16,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ALL OF YOU,17,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ALL THE THINGS YOU ARE,18,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ALONE TOGETHER,19,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ANA MARIA,20,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"AND NOW, THE QUEEN",22,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AROUND AGAIN,22,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AND ON THE THIRD DAY,23,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ANGEL EYES,24,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ANTHROPOLOGY,25,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+APRIL IN PARIS,26,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+APRIL JOY,27,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"ARISE, HER EYES",28,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ARMAGEDDON,30,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AS TIME GOES BY,31,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AU PRIVAVE,32,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AUTUMN IN NEW YORK,33,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"AY, ARRIBA !",34,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+AUTUMN LEAVES,36,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BALLET,37,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BATTERIE,38,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ICTUS,38,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BEAUTIFUL LOVE,39,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BEAUTY AND THE BLAST,40,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BENEATH IT ALL,41,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BESSIE'S BLUES,42,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BEWITCHED,43,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BIG NICK,44,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BITTER SUITE IN THE OZONE,45,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLACK DIAMOND,46,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLACK NARCISSUS,47,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLACK NILE,48,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLACK ORPHEUS,49,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLESSED RELIEF,50,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLUE BOSSA,51,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLUE COMEDY,52,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLUE IN GREEN,53,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLUE MONK,54,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLUE ROOM,55,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLUESETTE,56,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLUES FOR ALICE,57,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BLUE TRAIN,58,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BODY AND SOUL,59,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BOPLICITY,60,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BOSTON MARATHON,61,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BRAINVILLE,62,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BRIGHT SIZE LIFE,64,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BROADWAY BLUES,65,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BROWNOUT,66,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BUT BEAUTIFUL,67,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+BUTTERFLY,68,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CAPTAIN MARVEL,70,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CANYON SONG,72,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CEORA,73,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CHEGA DE SAUDADE,74,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CHELSEA BELLS,76,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CHELSEA BRIDGE,77,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CHEROKEE,78,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CHICKEN FEATHERS,79,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CHILDREN'S SONG,80,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+COLORS OF CHLOE,82,3,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CHIPPIE,85,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+COMO EN VIETNAM,86,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+COME SUNDAY,88,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CON ALMA,89,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CONCEPTION,90,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CONFERENCE OF THE BIRDS,91,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CONFIRMATION,92,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CORAL,93,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MOONCHILD,93,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CORCOVADO,94,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+COTTONTAIL,95,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+COULD IT BE YOU,96,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+COUNTDOWN,97,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+COUNTRY ROADS,98,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CRESCENT,99,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CRYSTAL SILENCE,100,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DAAHOUD,101,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DANCING ON THE CEILING,102,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DARN THAT DREAM,103,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DAYS AND NIGHTS WAITING,104,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"DAYS OF WINE AND ROSES, THE",105,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DAY WAVES,106,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DEARLY BELOVED,107,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DEAR OLD STOCKHOLM,108,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DELORES,109,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DE POIS DE AMOR O'VAZIO,110,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DESAFINADO,112,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DESERT AIR,114,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DELUGE,116,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DEXTERITY,117,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DOIN' THE PIG,118,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DJANGO,120,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"DOLPHIN, THE",121,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DOLPHIN DANCE,122,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DOMINO BISCUIT,123,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DONNA LEE,124,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DON'T BLAME ME,125,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+DON'T GET AROUND MUCH ANYMORE,126,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"DUKE, THE",127,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+12-4 2-4/DUPLICITIES,128,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EASY LIVING,129,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EASY TO LOVE,130,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ECCLUSIASTICS,131,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EIDERDOWN,132,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EIGHTY ONE,134,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EL GAUCHO,135,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ELIZETE,136,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EMPATHY,137,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EPISTROPHY,138,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EQUINOX,139,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EQUIPOISE,140,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+E.S.P,141,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EXERCISE #3,142,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+EXERCISE #6,143,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FABLES OF FAUBUS,144,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FALL,146,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FALLING GRACE,147,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FALLING IN LOVE WITH LOVE,148,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FEE-FI-FO-FUM,149,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FEELINGS AND THINGS,150,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"FIELDS WE KNOW, THE",151,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FIVE HUNDRED MILES HIGH,152,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+502 BLUES,153,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FOLLOW YOUR HEART,154,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+CENTRAL PARK WEST,156,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FLAGS,156,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FOOTPRINTS,157,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FOREST FLOWER,158,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FOR HEAVENS SAKE,159,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FORTUNE SMILES,160,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FOUR,161,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FOUR ON SIX,162,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FOUR WINDS,163,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FREDDIE THE FREELOADER,164,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+FREEDOM JAZZ DANCE,165,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GARY'S WALTZ,166,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GEMINI,167,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GENERAL MOJO'S WELL LAID PLAN,168,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GENTLE RAIN,169,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GIANTSTEPS,170,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"GIRL FROM IPANEMA, THE",171,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GLORIA'S STEP,172,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GOD BLESS THE CHILD,173,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GOLDEN LADY,174,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GOODBYE PORKPIE HAT,175,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GOOD EVENING MR. AND MRS. AMERICA,176,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GRAND CENTRAL,178,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GREEN DOLPHIN STREET,179,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GREEN MOUNTAINS,180,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GROOVIN' HIGH,181,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+GROW YOUR OWN,182,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HALF NELSON,184,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HASSAN'S DREAM,185,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HAVE YOU MET MISS JONES,186,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HEAVEN,187,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"HELLO, YOUNG LOVERS",188,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HENNINGER FLATS,190,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HERE'S THAT RAINY DAY,191,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HERZOG,192,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HEY THERE,194,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HOLD OUT YOUR HAND,195,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HOTEL OVERTURE,196,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HOTEL VAMP,197,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HOTEL HELLO,198,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SWEEPING UP,200,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HOUSE OF JADE,201,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HOW HIGH THE MOON,202,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HOW INSENSITIVE,203,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+HOW MY HEART SINGS,204,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"HULLO, BOLINAS",205,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ICARUS,206,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I CAN'T GET STARTED,208,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I COULD WRITE A BOOK,209,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IDALUPINO,210,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IF YOU NEVER COME TO ME,212,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I GOT IT SAD,213,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I LET A SONG GO OUT OF MY HEART,214,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I LOVE YOU,215,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I'M ALL SMILES,216,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I'LL REMEMBER APRIL,218,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I MEAN YOU,219,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IMPRESSIONS,220,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I'M YOUR PAL,221,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IN A MELLOW TONE,222,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IN A SENTIMENTAL MOOD,223,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+INCHWORM,224,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+INDIAN LADY,225,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+INSIDE IN,226,3,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+INNER URGE,229,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+INTERPLAY,230,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+INTREPID FOX,231,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IN YOUR OWN SWEET WAY,232,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IN YOUR QUIET PLACE,233,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+INVITATION,234,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I REMEMBER CLIFFORD,235,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IRIS,236,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+I SHOULD CARE,237,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ISN'T IT ROMANTIC,238,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ISOTOPE,239,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ISRAEL,240,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IT DON'T MEAN A THING,241,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+IT'S A RAGGY WALTZ,242,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+JELLY ROLL,243,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+JINRIKISHA,244,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+JORDU,245,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+JOURNEY TO RECIFE,246,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+JOY SPRING,247,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+JU—JU,248,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+JUST FRIENDS,249,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+JUMP MONK,250,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"JUNE 15TH, 1967",252,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LA FIESTA,254,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LADY BIRD,256,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LAMENT,257,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LAS VEGAS TANGO,258,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LAZY BIRD,259,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LEROY THE MAGICIAN,260,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LIE AWAKE,261,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LIKE SOMEONE IN LOVE,262,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LIMEHOUSE BLUES,263,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LITHA,264,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LITTLE B'S POEM,266,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LITTLE NILES,267,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LITURGY,268,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LITTLE WALTZ,270,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LONG AS YOU KNOW YOU'RE LIVING YOURS,271,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LONG AGO AND FAR AWAY,272,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LONNIE'S LAMENT,273,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LOOK TO THE SKY,274,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LOOKING BACK,275,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LUCKY SOUTHERN,276,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LULLABY OF BIRDLAND,277,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+LUSH LIFE,278,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"MAGICIAN IN YOU, THE",280,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MAIDEN VOYAGE,281,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MALLET MAN,282,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MAN IN THE GREEN SHIRT,284,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MAJOONG,286,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MAY DANCE,287,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MEDITATION,288,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MEMORIES OF TOMORROW,289,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MEVLEVIA,290,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MICHELLE,292,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MIDNIGHT MOOD,293,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MILANO,294,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MINORITY,295,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MISTY,296,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MIYAKO,297,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MOLTEN GLASS,298,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MOMENT'S NOTICE,299,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MONTAGE,300,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MOOD INDIGO,301,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MOONGERMS,302,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"MORE I SEE YOU, THE",303,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MOTHER OF THE DEAD MAN,304,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MEMPHIS UNDERGROUND,305,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MR. P.C.,305,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MY FAVORITE THINGS,306,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MY FOOLISH HEART,307,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MY FUNNY VALENTINE,308,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MY LITTLE BOAT,309,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MY ONE AND ONLY LOVE,310,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MY ROMANCE,311,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+STOMPIN' AT THE SAVOY,311,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MYSTERIOUS TRAVELER,312,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+MY SHIP,314,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NAIMA,315,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NARDIS,316,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NEFERTITI,317,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NEVER WILL I MARRY,318,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NICA'S DREAM,319,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NIGHT AND DAY,320,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NIGHT DREAMER,321,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NIGHT HAS A THOUSAND EYES,322,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NIMBUS,323,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NONSEQUENCE,324,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+NOSTALGIA IN TIMES SQUARE,326,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+OLEO,327,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+OLHOS DE GATO,328,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ONCE I LOVED,329,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ONE FINGER SNAP,330,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ONE NOTE SAMBA,331,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"OPEN YOUR EYES, YOU CAN FLY",332,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ORBITS,334,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ORNITHOLOGY,335,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+OUT OF NOWHERE,336,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PASSION DANCE,337,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PEACHES EN REGALIA,338,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PEACE,340,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PEARLIE'S SWINE,341,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PEE WEE,342,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PEGGY'S BLUE SKYLIGHT,343,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PENSATIVA,344,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PENT—UP HOUSE,346,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PERI'S SCOPE,347,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PFRANCING (NO BLUES),348,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PINOCCHIO,349,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PITHYCANTHROPUS ERECTUS,350,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PLAYED TWICE,351,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PORTSMOUTH FIGURATIONS,352,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PRELUDE TO A KISS,353,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PRINCE OF DARKNESS,354,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+PUSSY CAT DUES,355,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+QUIET NOW,356,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"RAVEN, THE",357,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"REAL GUITARIST, THE",358,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+RECORDAME,359,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+REINCARNATION OF A LOVEBIRD,360,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+RED CLAY,362,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+RESOLUTION,363,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ROUND MIDNIGHT,364,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SAGA OF HARRISON CRABFEATHERS,365,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SAME SHAME,366,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SATIN DOLL,367,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SCOTCH 'N' SODA,368,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SCRAPPLE FROM THE APPLE,369,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SEA JOURNEY,370,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SELF PORTRAIT IN 3 COLORS,372,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SEMBLENCE,373,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SEÑOR MOUSE,374,3,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SERENADE TO A CUCKOO,377,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SEVEN COME ELEVEN,378,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SEVEN STEPS TO HEAVEN,379,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SHADES OF LIGHT,380,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SHADOW OF YOUR SMILE,381,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SIDEWINDER,382,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SING ME SOFTLY OF THE BLUES,383,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SKATING IN CENTRAL PARK,384,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"SLOWLY GONE, BYGONE",385,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SOLAR,386,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SOLITUDE,387,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SOMEDAY MY PRINCE WILL COME,388,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SOME OTHER TIME,389,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SOME SKUNK FUNK,390,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SOMETIME AGO,392,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SONG,393,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SONG FOR MY FATHER,394,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"SONG IS YOU, THE",395,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SON OF MR. GREEN GENES,396,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SOPHISTICATED LADY,397,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"SORCERER, THE",398,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SO WHAT,399,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SPACE CIRCUS part 1,400,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SPACE CIRCUS part 2,402,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SPEAK NO EVIL,404,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SPIRAL DANCE,405,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SPRING IS HERE,406,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+STAR-CROSSED LOVERS,407,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+STELLA BY STARLIGHT,408,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+STEPS,409,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+STOLEN MOMENTS,410,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"STRAIGHT, NO CHASER",412,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+STUFF,413,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SUGAR,414,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SOMMER SAMBA,415,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SWEDISH PASTRY,416,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SWEET GEORGIA BRIGHT,417,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SWEET HENRY,418,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+SWEET RAIN,419,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TAKE FIVE,420,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+"TAKE THE ""A"" TRAIN",421,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TAME THY PEN,422,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+THERE IS NO GREATER LOV,423,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TELL ME A BEDTIME STORY,424,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+THERE WILL NEVER SE ANOTHER YOU,426,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+THEY CAN'T TAKE THAT AWAY FROM ME,427,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+THINK ON ME,428,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+THREE FLOWERS,429,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TONES FOR JOAN'S BONES,430,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TIME REMEMBERED,432,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TOUGH TALK,433,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TRAIN SAMBA,434,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TRANCE,435,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TRISTE,436,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TUNE-UP,437,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+TURN OUT THE STARS,438,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+UNQUITY ROAD 43,439,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+UP JUMPED SPRING 44,440,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+UPPER MANHATTAN MEDICAL GROUP 44,441,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+VASHKAR,442,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+VERY EARLY,443,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+VIRGO,444,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WAIT TILL YOU SEE HER,445,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WALKIN',446,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WALTER L.,447,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WALTZ,448,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WALTZ FOR A LOVELY WIFE,449,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WALTZ FOR DERBY,450,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WALTZIN',451,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WAVE,452,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WE'LL BE TOGETHER AGAIN,453,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WELL YOU NEEDN'T,454,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WEST COAST BLUES,455,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WHAT AM I HERE FOR,456,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WHAT ARE YOU DOING THE REST OF YOUR LIFE,457,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WHAT WAS,458,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WHAT IS THIS THING CALLED LOVE,460,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WHEN I FALL IN LOVE,461,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WHEN SUNNY GETS BLUE,462,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WHERE ARE YOU,463,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WILD FLOWER,464,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WINDOWS,466,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WINGS OF KARMA,468,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WITCH HUNT,469,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+WOODY'N YOU,470,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+YES OR NO,471,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+YESTERDAY,472,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+YESTERDAYS,473,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+YOU ARE THE SUNSHINE OF MY LIFE,474,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+YOU ARE TOO BEAUTIFUL,475,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+YOU DON'T KNOW WHAT LOVE IS,476,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+YOU TOOK ADVANTAGE OF ME,477,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+Untitled Tune,478,2,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+Untitled Tune,480,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+Untitled Tune,481,1,1,5,/real_books/Vol1-5th-c.pdf,/real_books/Vol1-5th-bass.pdf,/real_books/Vol1-5th-bb.pdf,/real_books/Vol1-5th-eb.pdf
+ABLUTION,1,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+AFFIRMATION,2,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+AIRMAIL SPECIAL,3,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ALFIE'S THEME,4,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ALL ALONE,5,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+A LL GOD'S CHILLUN GOT RHYTM,6,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ALTOITIS,7,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ANOTHER STAR,8,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+APRIL SKIES,9,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+APRIL,10,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ASK ME NOW,12,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+AVALON,13,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BACKSTAGE SALLY,14,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BAGS AND TRANE,15,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BAG'S GROOVE,16,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BARBADOS,17,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BARBARA,18,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BASIN STREET BLUES,19,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BA-LUE BOLIVAR BA-LUES-ARE,20,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BEETHOVEN'S BLUE 3RD,20,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BE BOP,21,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BETTER GIT IT IN YOUR SOUL,22,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BEYOND ALL LIMITS,23,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BILLIE'S BOUNCE,24,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BIRTH OF THE BLUES,25,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BIRDLAND,26,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLACK AND TAN FANTASY,28,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLOOMDIDO,29,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUE AND SENTIMENTAL,30,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUE MOON,31,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUE A LA MODE,32,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUES CONNOTATION,32,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUES BY FIVE,33,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUE SEVEN,33,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUES FOR PHILLY JOE,34,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUES FOR WOOD,34,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUE SILVER,35,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BLUES IN THE CLOSET,36,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BIRK'S WORKS,37,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BUSTER RIDES AGAIN,37,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BOOGIE STOP SHUFFLE,38,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BOOKER'S WALTZ,39,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BOUNCING WITH BUD,40,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BRAZILIAN BEAT,41,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BRIAN'S SONG,42,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BRIGHT BOY,43,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BRIGHT MOMENTS,44,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BRILLIANT CORNERS,45,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BROWN SKIN GIRL,46,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BUDO,47,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BUD'S BUBBLE,48,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BUNKO,49,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BUT NOT FOR ME,50,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BYE BYE BLACKBIRD,51,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CAN'T WE BE FRIEND,52,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CARAVAN,53,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CAREFUL,54,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CARELESS LOVE,55,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"""C"" JAM BLUES",55,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CATCH ME,56,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+C'EST WHAT,57,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CHAMELEON,58,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"CHASE, THE",59,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CHEESE CAKE,60,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CIRCLE,61,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CHASIN' THE TRANE,62,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+COUSIN MARY,62,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+COME RAIN OR COME SHINE,63,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+COMIN' HOME BABY,64,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+COOL BLUES,64,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"CORE, THE",64,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CONFESSIN' (That I Love You),65,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+COOKIN',66,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CRAZEOLOGY,67,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CRISS/CROSS,68,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+CUTE,69,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"CORK ""N"" BIB",70,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DUFF,70,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"DAY IN VIENNA, A",71,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DEEP PURPLE,72,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DEWEY SQUARE,73,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DIANE,74,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DINDI,75,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DOMINGO,76,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DO NOTHING TILL YOU HEAR FROM ME,77,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DOWN FOR DOUBLE,78,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DOXY,79,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DO YOU WANT WHAT IT MEANS (To Miss New Orleans),80,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"DRIVE, THE",81,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+EARLY AUTUMN,82,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ECLYPSO,83,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+EMBRACEABLE YOU,85,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ENCHANCE,86,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+EPILOGUE,86,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+EVENING IN CONCERT,88,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+EVERYTHING I HAVE IS YOURS,89,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+EYE OF HURRICANE,90,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+EZZ-THETIC,91,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+EINBAHNSTRASSE,92,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+E.K.'S BLUES,92,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ELORA,92,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+52ND STREET THEME,93,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FEELS SO GOOD,94,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FIRST MOVES,96,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FIRST TRIP,97,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FIVE BROTHERS,98,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FLIM FLAM,99,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FLINTSTONE'S THEME,100,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"FLOWER IS A LONESOME THING, A",101,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FLY BY NIGHT,102,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FIVE SPOT AFTER DARK,104,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FUNK DUMPLIN,104,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FLYING HOME,105,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FLY ME TO THE MOON,106,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FOOLS RUSH IN,107,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FOR MINORS ONLY,108,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FOUR BROTHERS,109,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FOX HUNT,110,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FREDDIE FROO,111,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"FREE CELL BLOCK ""F"", THIS NAZI U.S.A.",112,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FRIDAY THE 13TH,114,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FREE,116,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+FUNKY,116,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GAMES PEOPLE PLAY,117,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GETTIN' IT TOGETHA',117,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GENTLE WIND AND FALLING TEAR,118,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GEORGIA,119,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GET OUT OF TOWN,120,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"GHOST OF A CHANCE, A",121,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GENTLE RAIN,122,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GIRL TALK,122,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GOOD BAIT,123,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GOLDEN NOTEBOOKS,124,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GREGORY IS HERE,126,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GROOVE MECHANT,128,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GROOVE YARD,129,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+GROOVY SAMBA,130,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HACKENSACK,131,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HALLUCINATIONS,132,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HAPPY LITTLE SUNBEAM,133,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HAVONA,134,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HARLEQUIN,136,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HEAD AND SHOULDERS,137,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HERE'S THAT SUNNY DAY,138,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HELLO,140,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HI BECK,141,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HO-BA-LA-LA,142,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HOCUS POCUS,143,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HORIZON,144,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HORACESCOPE,146,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HUMMIN',147,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HUMPTY DUMPTY,148,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ICE CREAM KONITZ,149,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I BELIEVE IN YOU,150,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I COVER THE WAZTRFRONT,152,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IDOL GOSSIP,153,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IF I LOVED YOU,154,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IF I SHOULD LOSE YOU,155,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IF I WERE A BELL,156,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IF YOU COULD SEE ME NOW,157,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I GET A KICK OUT OF YOU,158,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I HEAR A RHAPSODY,160,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I'M A FOOL TO WANT YOU,161,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IMAGINATION,162,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I'M GETTIN' SENTIMENTAL OVER YOU,163,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IN CASE YOU HAVEN'T HEARD,164,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+INCENTIVE,165,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+INDIANA,166,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IN PURSUIT OF THE 27TH MAN,167,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IN WALKED BUD,168,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I REMEMBER YOU,169,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ISLAND BIRDIE,170,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IS IT REALLY TRU ?,171,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IT COULD HAPPEN TO YOU,172,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IT HAD TO BE YOU,173,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I THOUGHT ABOUT YOU,174,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IT'S ONLY A PAPER MOON,175,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+IT MIGHT AS WELL BE SPRING,176,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I'VE FOUND A NEW BABY,178,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+I WILL WAIT FOR YOU,179,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JACKIE,179,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JACO,180,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JEANNINE,181,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JE NE SAIS PAS,182,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"JODY GRIND, THE",183,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JITTERBUG WALTZ,184,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JORGIE'S,186,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JOYCE'S SAMBA,187,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JOY TO THE WORLD,188,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JUMPING WITH SYMPANY SID,188,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JUMP FOR ME,189,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JUST A FEW,190,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JUST A-SITTIN' AND A-ROCKIN',191,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JUST IN TIME,192,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"JUST YOU,JUST ME",193,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+JUST THE WAY YOU ARE,194,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+KARY'S FRANCE,196,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+KATRINA BALLERINA,197,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+KENTUCKY OYSTERS,198,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"KICKER, THE",198,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+KIDS ARE PRETTY PEOPLE,199,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+KILLER JOE,200,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LADY'S BLUES,201,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LAKES,202,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LAURA,203,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"LAST PAGE, THE",204,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LA NEVADA BLUES,206,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LIMBO,206,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LEILA,207,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LENNIE'S PENNIES,208,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LESTER LEAPS IN,209,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LET'S COOK ONE,210,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LIBERATED BROTHER,211,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LIES,212,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LIGHT AS A FEATHER,213,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LIKE SONNY,214,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"LITTLE CHICAGO FIRE, A",215,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LITTLE SUNFLOWER,216,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LOCOMOTION,217,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LONE JACK,218,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LONELY DREAMS,220,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LOVER,221,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LOVE FOR SALE,222,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LOVER MAN,224,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LOVE VIBRATIONS,225,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LYDIAN APRIL,226,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LENNIE-BIRD,227,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MR. CLEAN,227,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MAKE SOMEONE HAPPY,228,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"MAN I LOVE, THE",229,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WALL STREET,229,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WHATCH WHAT HAPPENS,229,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WATER COLORS,229,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MASQUERADE,230,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MAY-REH,231,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MELLOW MOOD,232,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MEMORIES OF YOU,233,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MENINA FLOR,234,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MONK'S MOOD,234,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"MERCY, MERCY, MERCY",235,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MILES AHEAD,236,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MINOR MISHAP,237,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MINOR MOOD,238,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MOAK'S SHOP,239,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MOANIN',240,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MODESTY BLUES,241,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MONK'S SPHERE,243,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MYSTIC TOUCH,243,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MOON GLOW,244,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MOON RAYS,245,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MOONTRANE,246,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MOOSE THE MOOCHE,247,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MORNING,248,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MOTEN'S SWING,249,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MOVE,250,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MOVING OUT,251,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"MR. BROADWAY, THEME FROM",252,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+THEME FROM BROADWAY,252,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MR. JONES,253,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MR. MAGIC,254,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MR. SIMS,255,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MRS. MINIVER,256,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MUEZZIN',257,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MY LITTLE SUEDE SHOES,258,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MY OLFD FLAME,259,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+NATURE BOY,260,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"NEARLESS OF YOU, THE",261,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"NEW THING, A",262,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+NO ME ESQUECA,263,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+NO MOE,264,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+NANCY JOE,265,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+NORTH ATLANTIC RUN,266,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+NO SPLICE,268,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+NUTVILLE,269,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+OFF MINOR,270,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ON THE TRAIL,270,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+OH LADY BE GOOD !,271,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+OLD DEVIL MOON,272,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ON A CLEAR DAY,273,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ONCE IN A WHILE,274,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ONE BY ONE,275,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ONE FOOT IN THE GUTTER,276,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ON THE STAIRS,277,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ONE FOR DADDY-O,278,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+OPUS DE FUNK,278,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+OUR LOVE IS HERE TO STAY,279,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+OUT BACK OF THE BARN,280,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PANNONICA,281,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PALO-ALTO,282,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PATTERNS,284,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PENNIES FROM HEAVEN,286,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PENNY ARCADE,287,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PERDIDO,288,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PERDIDO LINE,290,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PEOPLE WILL SAY WE'RE IN LOVE,292,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PETITE FLEUR,293,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PETITES MACHINS,294,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PICK YOURSELF UP,295,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PHASE DANCE,296,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+POLKA DOTS AND MOONBEAMS,297,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PORTRAIT OF JENNIE,298,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PROGRESSION,299,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"PREACHER, THE",300,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+PURSUANCE,300,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+QUICKSILVER,301,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+RECADO BOSSA NOVA,302,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+RED CROSS,303,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"REMARK YOU MADE, A",304,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ROBBIN'S NEST,306,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+RANBLIN',307,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+ROUND TRIP,307,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+RUBBERNECK,308,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+RYTHTM-A-NING,309,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SALT PEANUTS,310,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SAMBA DU BOIS,311,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SANDU,312,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+728,312,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SEPTEMBER IN THE RAIN,313,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SEPTEMBER SONG,314,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SERENE,315,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SAINT THOMAS,315,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SERENADE TO A SOUL SISTER,316,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SEVENTEEN WEST,317,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SONG FOR MY LADY,317,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SHINY STOCKINGS,318,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SERENITY,319,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SOME OTHER BLUES,319,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SILVER'S SERENADE,320,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SIMONE,321,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SHORT STOP,322,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SHUTTER BUG,322,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+UMMER TIME,323,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SWINGIN' SHEPHERD BLUES,323,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SISTER SADIE,324,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SAINT JAMES INFIRMARY,325,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SIPPIN' AT BELL'S,325,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SLIPPED DISC,326,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"SLOW, HOT, WIND",328,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SMOKE GETS IN YOUR EYES,329,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SOFTLY IS A MORNING SUNRISE,330,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SOMEONE TO WATCH OVER ME,331,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SONG FOR BILBAD,332,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SOUL EYES,333,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SOULTRANE,334,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SOUND LEE,335,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SPEAK LIKE A CHILD,336,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SPEAK LOW,337,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SPIRAL,338,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SPRING CAN REALLY HANG YOU UP THE MOST,339,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+STARDUST,340,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+STAR EYES,341,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+STREET LOUIS BLUES,342,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+STRAIGHT LIFE,343,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+STRAIGHORN 2,344,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+STRODE ROAD,345,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+STROLLIN',346,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+STRUTTIN' WITH SOME BAR-B-Q,347,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SUB-CONSCIOUS-LEE,348,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SUMMER IN CENTRAL PARK,349,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"SUMMER KNOWS, THE",350,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SUNSHINE EXPRESS,351,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"SWEETEST SOUNDS, THE",352,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SWEET GEORGIA BROWN,353,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SYEEDA'S SONG FLUTE,354,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+SHORT RIFF,356,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"THUMPER, THE",356,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TADD'S DELIGHT,357,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TAKING A CHANCE ON LOVE,358,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TANGERINE,359,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TAUTOLOGY,360,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TEENIE' BLUES,361,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TWISTED,361,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TENDERLY,362,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+THEIRS TEARS,363,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+THESE FOOLISH THINGS (Remind Me Of You),364,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+NOW'S THE TIME,365,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+THINGS AIN'T WHAT THEY USED TO BE,365,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+THINGS TO COME,366,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+THIS I DIG OF YOU,367,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+THRIVING ON A RIFF,368,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TICKLE-TOE,369,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TILL THERE WAS YOU,370,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TIME AFTER TIME,371,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TIPPIN',372,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TOMORROW'S DESTINY,373,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TOAD'S PLACE,374,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TENOR MADNESS,376,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TRANE'S BLUES,376,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TURN AROUND,377,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+TWO NOT ONE,378,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+VONETTA,379,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WALKIN' SHOES,380,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"WALK'IN THING, A",381,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WALK TALL,382,4,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WATERSIGN,386,2,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"WAY YOU LOOK TONIGHT, THE",388,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WEEKEND BLUES,389,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WENDY,390,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WHAT'S NEW,391,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WHEN LIGHTS ARE LOW,392,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WHISPER NOT,393,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WHO CAN I TURN TO,394,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"WHOPPER, THE",395,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WILLOW WEEP FOR ME,396,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WOW,397,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WRONG IS RIGHT,398,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WORK SONG,399,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+YOU BETTER LEAVE IT ALONE,399,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+YANA AMINA,400,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+YARDBIRD SUITE,401,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+YOU STEPPED OUT OF A DREAM,402,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+OYE COMO YA,403,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+YO^'D BE SO NICE TO COME HOME TO,403,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BIG P,404,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BILL'S HIT TUNE,405,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BOHEMIA AFTER DARK,406,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+BYRDLIKE,407,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+HI FLY,407,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+DECISION,408,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LUNAR TUNE,408,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+LITTLE ROOTIE TOOTIE,409,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+MANTECA,410,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"SCENE IS CLEAN, THE",411,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+"SLEEPING BEE, A",412,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+THREE BASE HIT,413,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+WEBB CITY,414,1,2,5,/real_books/Vol2-5th-c.pdf,/real_books/Vol2-5th-bass.pdf,/real_books/Vol2-5th-bb.pdf,/real_books/Vol2-5th-eb.pdf
+AFTER YOU,1,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+AFTER YOU'VE GONE,2,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+AIN'T MISBEHAVIN',3,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ALL OR NOTHING AT ALL,4,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ALANJUNEALLY,6,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ALONG CAME BETTY,7,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ALWAYS AND FOREVER,8,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ANGELA,9,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ARMANDO'S RHUMBA,10,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+AUTUMN IN 3,12,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+AUTUMN NOCTURNE,13,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+AVALON PLACE,14,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BALLAD FOR ANITA,15,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BALLAD FOR TRANE,16,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BEAUTIFUL FRIENDSHIP,17,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BE MY LOVE,18,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BESIDE MYSELF,20,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"BESS, YOU IS MY WOMAN NOW",22,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BERNIE'S TUNE,24,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BEST THING FOR YOU IS ME,25,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BETTER GIT IN YOUR SOUL,26,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BEYOND THE BLUEBIRD,27,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BLUE DANIEL,28,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BLUEBIRD,29,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BLUES BACKSTAGE,30,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BOLIVIA,31,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BOP SHOP,32,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BOP BOY,34,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BORN TO BE BLUE,35,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BOSSA ROKKA,36,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"BOY NEXT DOOR, THE",37,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BUD POWELL,38,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BUD'S BLUES,40,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BUSCH-WACKED,41,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BUZZY,42,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BY MYSELF,43,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+BYE BYE BABY,44,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+CELIA,46,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"CERTAIN SMILE, A",48,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+CHARIOTS,49,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+CHEEK TO CHEEK,50,3,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+CHERYL,53,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+CLOSE ENOUGH FOR LOVE,54,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+COMPENSATION,55,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+COOL EYES,56,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+CRY ME A RIVER,58,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+DAY DREAM,59,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+DACAPOLYPSO,60,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"DAY IN, DAY OUT",62,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+DIG,64,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+DON'T ASK WHY,66,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+DON'T EVER GO AWAY,67,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+DON'T LOOK BACK,68,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+DOUBLE CLUTCHING,70,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+DREAM DANCING,71,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+EAST OF THE SUN,72,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+EMANON,73,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+EMILY,74,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"END OF A LOVE AFFAIR, THE",75,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ENDLESSLY,76,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ESTATE,78,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ETERNAL TRIANGLE,79,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+EV'RY TIME WE SAY GOOD BYE,80,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+EVERYTHING HAPPENS TO ME,82,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+EVERYTHING I LOVE,83,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FATHER,84,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FAVELA,85,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FELL LIKE MAKIN' LOVE,86,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FOR HEAVEN'S SAKE,87,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FREIGHT TRANE,88,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FRENCH WALTZ,89,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FRIDAY THE 13TH,90,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FROM NOW ON,91,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FROM THE HEART,92,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FROM THIS MOMENT ON,94,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FULL MOON AND EMPTY ARMS,95,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+FUNKARELLO,96,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+GNU BLU,97,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+GAVIOTA,98,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+GODCHILD,100,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+GONR WITH THE WIND,101,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+GOODBYE,102,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+GOT A MATCH ?,103,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+HARLEM NOCTURNE,104,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+HEART SONG,106,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+HIGH HOPES,108,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+HIGH WIRE THE AERIALIST,110,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+H & H,112,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+HOT HOUSE,113,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+HOW ABOUT YOU,114,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+HOW DEEP IS THE OCEAN,115,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+HOW LONG HAS THIS BEEN GOING ON,116,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I DIDN'T KNOW WHAT TIME IT WAS,117,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I CONCENTRATE ON YOU,118,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I FALL IN LAVE TOO EASILY,120,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I LEFT MY HEART IN SAN FRANCISCO,121,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I NEED YOU HERE,122,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I WISH YOU LOVE,124,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'LL BE AROUND,126,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I LOVE YOU PORGY,128,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'LL BE SEEING YOU,129,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'LL CLOSE MY EYES,130,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'LL TAKE ROMANCE,131,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'M GLAD THERE IS YOU,132,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'M OLD FASCHIONED,133,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'M THROUGH WITH LOVE,134,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'VE GOT A CRUSCH ON YOU,135,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'VE GOT THE WORLD ON A STRING,136,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'VE GOT YOU UNDER MY SKIN,138,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'VE GROWN ACCUSTOMED TO YOUR FACE,140,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'VE NEVER BEEN IN LOVE BEFORE,141,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+I'LL WIND,142,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+IN A CAPRICORNIAN WAY,143,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+IN HER FAMILY,144,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+IN LOVE IN VAIN,145,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+IN THE DAYS OF OUR LOVE,146,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+INDIAN SUMMER,148,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+IRY'S AT MIDNIGHT,150,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ISFAHAN,150,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+IT NEVER ENTERED MY MIND,151,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+IT'S ALL RIGHT WITH ME,152,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+IT'S YOU OR NO ONE,154,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"JAPANESE WALTZ, A",155,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+JERSEY BOUNCE,156,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+JIVE SAMBA,157,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+JITTERBUG WALTZ,158,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+JUST ONE OF THOSE THINGS,160,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+JULIAN,162,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+JUST SQUEEZE ME,163,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LADIES IN MERCEDES,164,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"LADY IS A TRAMP, THE",166,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LAZY AFTERNOON,167,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LEAP OF FAITH,168,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LI'L DARLIN',169,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LINE FOR LYONS,170,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LITTLE WILLIE LEAPS,171,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LITTLE FACE,172,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LITTLE GIRL BLUE,174,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"LONG VIEW, THE",176,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"LOOP, THE",178,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"LOTUS ON IRISH STREAMS, A",179,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LOUD-ZEE,180,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LOVERS RAIN DANCE,181,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LOVE WALKED IN,182,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LULLABY OF THE LEAVES,184,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+LULU'S BACK IN TOWN,185,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MAKIN' WHOOPEE,186,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MANDALA,188,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MANHATTAN,189,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MATRIX,190,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MAYREH,191,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"MEANING OF THE BLUES, THE",192,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MILESTONES,193,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MI BOJ A SAMBA,194,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MIDNIGHT SUN,196,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MOMENT TO MOMENT,198,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MOONLIGHT IN VERMONT,199,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"MONSTER & THE FLOWER, THE",200,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MOON AND SAND,202,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MOUNTAIN GREENERY,204,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MUEZZIN',205,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MY MAN'S GONE NOW,206,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+MY HEART STOLL STILL,208,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+NEAL'S BLUES,209,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+NEVER LET ME GO,210,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+NICE'N EASY,211,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"NIGHT WE CALLED IT A DAY, THE",212,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"NNIGHTINGALE SANG IN BERKELEY SQUARE, A",213,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+NOBODY ELSE BUT ME,214,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+NOW THE BEATS THE DRUM-NOW HE STOPS,215,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"NOW HE SINGS, NOW HE SOBS",216,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+NUMBER 6,217,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+OLD FOLKS,218,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ON A CLEAR DAY,219,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ON THE SLY,220,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ON THE STREET WHERE YOU LIVE,222,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ONLY YOU KNOW,224,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+OUT OF THIS WORLD,226,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+OUR DELIGHT,228,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+OVER THE RAINBOW,229,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+OW !,230,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"PARTY'S OVER, THE",231,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+PANHANDLE HOOK,232,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+PASSPORT,234,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+PATZ BLUES,235,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+PEOPLE,236,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+PERHAPS,238,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+PICADILLY LILLY,239,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+POINCIANA,240,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+POINT OF RETURN,241,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+POOR BUTTERFLY,242,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"PRETTY GIRL IS LIKE A MELODY, A",243,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+PRISM,244,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+PURE IMAGINATION,245,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+RAHSAAN'N RUN,246,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+RE-RE,247,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+RE; PERSON I KNEW,248,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+RELAXIN' AT CAMARILLO,249,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ROSEWOOD,250,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+ROOM 608,252,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SAINT THOMAS,253,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SAMBA DE ORFEU,254,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SANTURCE,256,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SAMBACIDE,258,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SEABROOK REVISITED,259,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SECRET LOVE,260,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SEEMS TO ME,262,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SERPENT'S TOOTH,263,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SHAW NUFF,264,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SISTER SADIE,266,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SKYLARK,267,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"SLEEPIN' BEE, A",268,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SO IN LOVE,270,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SOME NERVE,272,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SOMETHING FROM EVERYONE,273,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SONG FOR SISIPHUS,274,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SONNYMOON FOR TWO,276,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SOON,277,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SPIRIT SAMBA,278,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SPRING CAN REALLY HANG YOU UP THE MOST,280,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SQUIRREL,282,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+STABLEMATES,283,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+STAR EYES,284,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+STARS FELL ON ALABAMA,285,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+STEEPLE CHASE,286,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+STORMY WEATHER,287,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+STREET OF DREAMS,288,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SUNNY,289,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SUNNY SIDE OF THE STREET,290,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SWEET LORRAINE,291,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SWING DENTZ SWING,292,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SWING SHIFT,294,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+SY CLONE,295,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+T.J.R.C,296,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TEACH ME TONIGHT,297,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TEA FOR TWO,298,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THAT OLD FEELING,300,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THAT'S ALL,301,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THEME FROM MAXIME,302,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THEN I'LL BE TIRED OF YOU,303,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THERE GOES MY HEART,304,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THEY SAY ITS WONDERFUL,306,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THEIR'S TEARS,307,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THINGS AIN'T WHAT THEY USED TO BE,308,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THIS CAN'T BE LOVE,309,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THREE AND ONE,310,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"THRILL IS GONE, THE",311,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+THYME'S TIME,312,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TIDAL BREEZE,314,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"TIME FOR LOVE, A",315,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TIME LIE,316,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TIME WAS,318,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TINY CAPERS,319,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TIS',320,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TO KILL A BRICK,321,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TOO CLOSE FOR COMFORT,322,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TOO MARVELOUS FOR WORDS,323,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"TOOCH OF YOUR LIPS, THE",324,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TRICROTISM,325,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+TUNE 88,326,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+UN POCO-LOCO,327,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+UNFORGETTABLE,328,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+"VERY THOUGHT OF YOU, THE",329,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+VIOLETS FOR YOUR FURS,330,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WAIL,331,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WALL-EYE BLUES,332,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WATCH WHAT HAPPENS,333,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WATERMELON MAN,334,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WHAT A DIFFERENCE A DAY MADE,335,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WES SIDE STROLL,336,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WHAT KIND OF FOOL AM I,338,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WHEN THE SUN COMES OUT,339,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WHEN YOUR LOVER HAS GONE,340,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WHERE OR WHEN,341,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WHILE WE'RE YOUNG,342,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WHO CAN I TURN TO,343,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WHY DID I CHOOSE YOU,344,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WILL YOU STILL BE MINE,345,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WITHCRAFT,346,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WITH EVERY BREATH I TAKE,347,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+WRAP YOUR TROUBLES IN DREAMS,348,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+YOU & THE NIGHT & THE MUSIC,349,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+YOU DO SOMETHING TO ME,350,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+YOU MAKE ME FEEL SO YOUNG,351,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+YOU GO TO MY HEAD,352,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+YOU MUST BELIEVE IN SPRING,354,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+YOU'VE CHANGED,355,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+YOU'RE EVERATHING,356,2,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+YOUNGER THAN SPRINGTIME,358,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
+YOURS IS MY HEART ALONE,359,1,3,5,/real_books/Vol3-5th-c.pdf,null,/real_books/Vol3-5th-bb.pdf,null
