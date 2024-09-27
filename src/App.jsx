@@ -9,18 +9,41 @@ import HomePage from "./pages/HomePage";
 import Login from "./pages/Login";
 import logo from "./assets/logo.png";
 import { auth } from "./firebase"; // Import auth directly
+import {
+  onAuthStateChanged,
+  setPersistence,
+  browserLocalPersistence,
+} from "firebase/auth";
 
 import "./App.css";
 
 function App() {
   const [user, setUser] = useState(null);
+  const [loading, setLoading] = useState(true); // Add a loading state
 
   useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged((user) => {
-      setUser(user);
-    });
-    return () => unsubscribe();
+    // Set auth persistence to local storage
+    setPersistence(auth, browserLocalPersistence)
+      .then(() => {
+        // Check if the user is already logged in
+        const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
+          setUser(currentUser);
+          setLoading(false); // Set loading to false once the auth state is determined
+        });
+
+        // Clean up the subscription
+        return () => unsubscribe();
+      })
+      .catch((error) => {
+        console.error("Error setting persistence:", error);
+        setLoading(false); // Stop loading if there's an error
+      });
   }, []);
+
+  if (loading) {
+    // While loading, you could return a loading spinner or null
+    return <div>Loading...</div>;
+  }
 
   return (
     <Router>

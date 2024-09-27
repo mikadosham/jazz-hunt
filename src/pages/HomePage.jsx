@@ -8,7 +8,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import KeySelector from "../components/KeySelector";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExpand, faCompress } from "@fortawesome/free-solid-svg-icons";
-import { auth } from "../firebase"; // Import the auth instance
+import { auth } from "../firebase";
 import pdfMapping from "../pdfMapping";
 
 console.log("pdfMapping:", pdfMapping);
