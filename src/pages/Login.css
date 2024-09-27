@@ -15,14 +15,14 @@
   font-family: "Gloria Hallelujah", cursive;
   background: none;
   border: none;
-  color: #007bff; /* Change this to the color you prefer */
+  color: #007bff;
   padding: 0;
   margin: 0;
-  font-size: 16px; /* Adjust the font size as needed */
-  cursor: pointer; /* Optional: Add underline to mimic a link */
+  font-size: 16px;
+  cursor: pointer;
 }
 
 .login-button:hover {
-  color: #0056b3; /* Optional: Darken the color on hover */
-  text-decoration: none; /* Optional: Remove underline on hover */
+  color: #0056b3;
+  text-decoration: none;
 }
