@@ -10,6 +10,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExpand, faCompress } from "@fortawesome/free-solid-svg-icons";
 import { auth } from "../firebase"; // Import the auth instance
 
+console.log("PDF.js version:", pdfjsLib.version);
+
 pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 
 function HomePage() {
