@@ -20,6 +20,7 @@ function Login() {
         email,
         password
       );
+      console.log("User signed in:", userCredential.user);
       navigate("/"); // Redirect to the homepage after successful login
     } catch (error) {
       console.error("Error during sign-in:", error);

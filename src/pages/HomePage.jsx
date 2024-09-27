@@ -9,7 +9,9 @@ import KeySelector from "../components/KeySelector";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExpand, faCompress } from "@fortawesome/free-solid-svg-icons";
 import { auth } from "../firebase"; // Import the auth instance
+import pdfMapping from "../pdfMapping";
 
+console.log("pdfMapping:", pdfMapping);
 console.log("PDF.js version:", pdfjsLib.version);
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker;
@@ -67,36 +69,68 @@ function HomePage() {
 
   const handleKeyChange = (key) => {
     setSelectedKey(key);
+
     if (result) {
-      renderPages(result.page, result[key], result.num_pages);
+      const volumeKey = `vol${result.volume}-5th`;
+      const pdfUrl = pdfMapping[volumeKey]?.[key.toLowerCase()];
+
+      if (pdfUrl) {
+        renderPages(result.page, pdfUrl, result.num_pages);
+      } else {
+        console.error(
+          "PDF URL not found for volumeKey:",
+          volumeKey,
+          "and key:",
+          key
+        );
+        alert("The selected PDF file could not be found.");
+      }
     }
   };
+  console.log("pdfmapping:" + pdfMapping);
 
   const handleSelectSong = (song) => {
     setResult(song);
     setFilteredSongs([]);
     setQuery(song.title); // Update the search input with the selected song's title
 
-    const availableKeys = ["C", "Bb", "Eb", "BASS"];
-    const firstAvailableKey = availableKeys.find((key) => song[key] !== "null");
+    const availableKeys = ["c", "bass", "bb", "eb"];
+    const firstAvailableKey = availableKeys.find(
+      (key) => song[key.toUpperCase()] !== "null"
+    );
 
     if (firstAvailableKey) {
       setSelectedKey(firstAvailableKey);
-      renderPages(song.page, song[firstAvailableKey], song.num_pages);
+      const volumeKey = `vol${song.volume}-5th`; // Assuming 'volume' holds the number like '1', '2', etc.
+      const pdfUrl = pdfMapping[volumeKey]?.[firstAvailableKey];
+
+      console.log("Volume Key:", volumeKey);
+      console.log("First Available Key:", firstAvailableKey);
+      console.log("PDF URL:", pdfUrl); // Add this line to log the actual PDF URL being selected
+
+      if (pdfUrl) {
+        renderPages(song.page, pdfUrl, song.num_pages);
+      } else {
+        console.error(
+          "PDF URL not found for volumeKey:",
+          volumeKey,
+          "and key:",
+          firstAvailableKey
+        );
+      }
     }
   };
 
   const renderPages = (startPage, pdfUrl, numPages) => {
-    console.log("Attempting to load PDF from URL:", pdfUrl);
     if (!pdfUrl) {
       console.error("Invalid PDF URL:", pdfUrl);
       alert("The PDF file could not be found.");
       return;
     }
+
     pdfjsLib
-      .getDocument(pdfUrl)
+      .getDocument({ url: pdfUrl })
       .promise.then((pdf) => {
-        console.log("PDF loaded successfully:", pdf);
         const pagePromises = [];
         for (let i = 0; i < numPages; i++) {
           pagePromises.push(pdf.getPage(startPage + i));
@@ -104,7 +138,6 @@ function HomePage() {
         return Promise.all(pagePromises);
       })
       .then((pages) => {
-        console.log("Pages loaded successfully:", pages);
         const pageImages = pages.map((page) => {
           const viewport = page.getViewport({ scale: 1.5 });
           const canvas = document.createElement("canvas");
@@ -122,7 +155,6 @@ function HomePage() {
         return Promise.all(pageImages);
       })
       .then((images) => {
-        console.log("Images rendered successfully:", images);
         setPages(images);
         pdfSectionRef.current?.scrollIntoView({ behavior: "smooth" });
       })
