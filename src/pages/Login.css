@@ -38,3 +38,23 @@
   color: #0056b3;
   text-decoration: none;
 }
+
+.login-field input:placeholder-shown + label {
+  cursor: text;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transform-origin: center bottom;
+  transform: translate(0, 3.125em) scale(1.5);
+  top: -65px;
+  position: relative;
+}
+
+.login-field input:not(:placeholder-shown) + label,
+input:focus + label {
+  transform: translate(0, 0) scale(0.8);
+  cursor: default;
+  color: #000000;
+  position: relative;
+  top: -70px;
+}
