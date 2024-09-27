@@ -128,8 +128,6 @@ function HomePage() {
       .catch((error) => {
         console.error("Error rendering pages:", error);
         console.error("Stack trace:", error.stack); // Logs stack trace for more context
-        console.error("Error rendering pages:", error.message);
-        console.error("Stack trace:", error.stack);
         console.error("Failed PDF URL:", pdfUrl);
         alert("Sorry, we encountered an issue while loading the document.");
       });

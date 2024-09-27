@@ -51,7 +51,7 @@
 }
 
 .login-field input:not(:placeholder-shown) + label,
-input:focus + label {
+.login-field input:focus + label {
   transform: translate(0, 0) scale(0.8);
   cursor: default;
   color: #000000;
