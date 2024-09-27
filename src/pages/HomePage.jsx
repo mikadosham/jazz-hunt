@@ -96,11 +96,7 @@ function HomePage() {
     pdfjsLib
       .getDocument(pdfUrl)
       .promise.then((pdf) => {
-        if (startPage < 1 || startPage + numPages > pdf.numPages) {
-          throw new Error(
-            `Page range is out of bounds. Start page: ${startPage}, Number of pages: ${numPages}, Total pages in PDF: ${pdf.numPages}`
-          );
-        }
+        console.log("PDF loaded successfully:", pdf);
         const pagePromises = [];
         for (let i = 0; i < numPages; i++) {
           pagePromises.push(pdf.getPage(startPage + i));
@@ -108,6 +104,7 @@ function HomePage() {
         return Promise.all(pagePromises);
       })
       .then((pages) => {
+        console.log("Pages loaded successfully:", pages);
         const pageImages = pages.map((page) => {
           const viewport = page.getViewport({ scale: 1.5 });
           const canvas = document.createElement("canvas");
@@ -125,13 +122,12 @@ function HomePage() {
         return Promise.all(pageImages);
       })
       .then((images) => {
+        console.log("Images rendered successfully:", images);
         setPages(images);
         pdfSectionRef.current?.scrollIntoView({ behavior: "smooth" });
       })
       .catch((error) => {
         console.error("Error rendering pages:", error);
-        console.error("Stack trace:", error.stack); // Logs stack trace for more context
-        console.error("Failed PDF URL:", pdfUrl);
         alert("Sorry, we encountered an issue while loading the document.");
       });
   };

@@ -13,7 +13,6 @@ function Login() {
 
   const handleLogin = async (e) => {
     e.preventDefault();
-    console.log("Login attempt with email:", email);
 
     try {
       const userCredential = await signInWithEmailAndPassword(
@@ -21,7 +20,6 @@ function Login() {
         email,
         password
       );
-      console.log("User signed in:", userCredential.user);
       navigate("/"); // Redirect to the homepage after successful login
     } catch (error) {
       console.error("Error during sign-in:", error);
