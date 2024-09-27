@@ -85,9 +85,19 @@ function HomePage() {
   };
 
   const renderPages = (startPage, pdfUrl, numPages) => {
+    if (!pdfUrl) {
+      console.error("Invalid PDF URL:", pdfUrl);
+      alert("The PDF file could not be found.");
+      return;
+    }
     pdfjsLib
       .getDocument(pdfUrl)
       .promise.then((pdf) => {
+        if (startPage < 1 || startPage + numPages > pdf.numPages) {
+          throw new Error(
+            `Page range is out of bounds. Start page: ${startPage}, Number of pages: ${numPages}, Total pages in PDF: ${pdf.numPages}`
+          );
+        }
         const pagePromises = [];
         for (let i = 0; i < numPages; i++) {
           pagePromises.push(pdf.getPage(startPage + i));
@@ -118,6 +128,9 @@ function HomePage() {
       .catch((error) => {
         console.error("Error rendering pages:", error);
         console.error("Stack trace:", error.stack); // Logs stack trace for more context
+        console.error("Error rendering pages:", error.message);
+        console.error("Stack trace:", error.stack);
+        console.error("Failed PDF URL:", pdfUrl);
         alert("Sorry, we encountered an issue while loading the document.");
       });
   };
