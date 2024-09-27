@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import * as pdfjsLib from "pdfjs-dist/build/pdf";
 import pdfjsWorker from "pdfjs-dist/build/pdf.worker.entry";
 import SearchBar from "../components/SearchBar";
@@ -8,6 +8,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import KeySelector from "../components/KeySelector";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExpand, faCompress } from "@fortawesome/free-solid-svg-icons";
+import { auth } from "../firebase"; // Import the auth instance
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 
@@ -19,6 +20,19 @@ function HomePage() {
   const [result, setResult] = useState(null);
   const [pages, setPages] = useState([]); // Holds the images for all pages
   const [isFullScreen, setIsFullScreen] = useState(false); // State to handle fullscreen mode
+  const pdfSectionRef = useRef(null); // Reference for the PDF section
+
+  const handleLogout = () => {
+    auth
+      .signOut()
+      .then(() => {
+        console.log("User signed out successfully.");
+        // You can redirect the user to the login page or perform other actions here
+      })
+      .catch((error) => {
+        console.error("Error signing out:", error);
+      });
+  };
 
   useEffect(() => {
     fetch("/real_book_contents.json")
@@ -43,6 +57,12 @@ function HomePage() {
     }
   };
 
+  const handleClear = () => {
+    setQuery("");
+    setResult(null);
+    setFilteredSongs([]);
+  };
+
   const handleKeyChange = (key) => {
     setSelectedKey(key);
     if (result) {
@@ -51,18 +71,12 @@ function HomePage() {
   };
 
   const handleSelectSong = (song) => {
-    console.log("Selected song:", song);
-
     setResult(song);
     setFilteredSongs([]);
     setQuery(song.title); // Update the search input with the selected song's title
 
-    const availableKeys = ["c", "bass", "bb", "eb"];
+    const availableKeys = ["C", "Bb", "Eb", "BASS"];
     const firstAvailableKey = availableKeys.find((key) => song[key] !== "null");
-
-    console.log("Selected key:", firstAvailableKey);
-    console.log("PDF URL for Bb:", song.bb);
-    console.log("Starting page number:", song.page);
 
     if (firstAvailableKey) {
       setSelectedKey(firstAvailableKey);
@@ -99,6 +113,7 @@ function HomePage() {
       })
       .then((images) => {
         setPages(images);
+        pdfSectionRef.current?.scrollIntoView({ behavior: "smooth" });
       })
       .catch((error) => {
         console.error("Error rendering pages:", error);
@@ -120,11 +135,19 @@ function HomePage() {
 
   return (
     <div className="main">
-      <SearchBar query={query} onSearchChange={handleSearchChange} />
+      <button className="logout-button" onClick={handleLogout}>
+        Logout
+      </button>
+
+      <SearchBar
+        query={query}
+        onSearchChange={handleSearchChange}
+        onClear={handleClear}
+      />
       <SongList songs={filteredSongs} onSelectSong={handleSelectSong} />
 
       {result && (
-        <div className="results">
+        <div className="results" ref={pdfSectionRef}>
           <div className="settings-wrapper">
             <button
               onClick={toggleFullscreen}
@@ -137,7 +160,7 @@ function HomePage() {
               <FontAwesomeIcon icon={isFullScreen ? faCompress : faExpand} />
             </button>
             <KeySelector
-              availableKeys={["c", "bass", "bb", "eb"].filter(
+              availableKeys={["C", "Bb", "Eb", "BASS"].filter(
                 (key) => result[key] !== "null"
               )}
               selectedKey={selectedKey}
@@ -147,7 +170,12 @@ function HomePage() {
           <div
             className={`carousel-container ${isFullScreen ? "fullscreen" : ""}`}
           >
-            <Carousel>
+            <Carousel
+              showArrows={true}
+              emulateTouch={true}
+              renderIndicator={() => null}
+              dynamicHeight={false}
+            >
               {pages.map((page, index) => (
                 <div key={index}>
                   <img src={page} alt={`Page ${index + 1}`} />
@@ -159,7 +187,9 @@ function HomePage() {
       )}
 
       {!result && query && filteredSongs.length === 0 && (
-        <p>No results found for "{query}". Please try another song title.</p>
+        <p className="no-results">
+          No results found for "{query}". Please try another song title.
+        </p>
       )}
     </div>
   );

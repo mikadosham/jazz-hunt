@@ -31,6 +31,25 @@ body {
   margin-top: 50px;
 }
 
+.logout-button {
+  position: absolute;
+  top: 10px;
+  right: 23px;
+  font-family: "Gloria Hallelujah", cursive;
+  background: none;
+  border: none;
+  color: #a6a6a6; /* Change this to the color you prefer */
+  padding: 0;
+  margin: 0;
+  font-size: 16px; /* Adjust the font size as needed */
+  cursor: pointer; /* Optional: Add underline to mimic a link */
+}
+
+.logout-button:hover {
+  color: #000000; /* Optional: Darken the color on hover */
+  text-decoration: none; /* Optional: Remove underline on hover */
+}
+
 .logo {
   max-width: 150px;
 }
@@ -78,7 +97,7 @@ input {
 }
 input:focus {
   outline: 0;
-  border-color: #7b00ff;
+  border-color: #000000;
 }
 input:-moz-placeholder-shown + label {
   cursor: text;
@@ -107,18 +126,18 @@ input:placeholder-shown + label {
 input:not(:-moz-placeholder-shown) + label {
   transform: translate(0, 0) scale(1);
   cursor: default;
-  color: #7b00ff;
+  color: #000000;
 }
 input:not(:-ms-input-placeholder) + label {
   transform: translate(0, 0) scale(1);
   cursor: default;
-  color: #7b00ff;
+  color: #000000;
 }
 input:not(:placeholder-shown) + label,
 input:focus + label {
   transform: translate(0, 0) scale(0.8);
   cursor: default;
-  color: #7b00ff;
+  color: #000000;
 }
 label {
   color: #ccc;
@@ -157,29 +176,8 @@ label {
   width: 100%;
 }
 
-.song-list {
-  font-family: "Gloria Hallelujah", cursive;
-  list-style-position: inside;
-  max-width: 400px;
-  box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
-  padding: 0px 16px;
-  margin: 0;
-  border-radius: 0.1rem;
-  text-transform: lowercase;
-  margin-top: 10px;
-  list-style-type: none;
-  position: relative;
-  top: -16px;
-  margin: auto;
-  border-radius: 23px;
-}
-
 li {
   padding: 0 0 0 1rem;
-}
-
-li:not(:last-child) {
-  border-bottom: 1px solid lightblue;
 }
 
 li:first-child {
@@ -209,6 +207,8 @@ li:nth-child(3n - 1)::marker {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  max-width: 600px;
+  margin: auto;
   margin-top: 20px;
 }
 
@@ -260,13 +260,14 @@ li:nth-child(3n - 1)::marker {
   position: absolute;
   padding: 0;
   top: 0;
-  left: 0;
+  left: -14px;
   display: none;
   marker: none;
 }
 .list ul.active {
   display: block;
   z-index: 10;
+  width: max-content;
 }
 
 .list li:first-child a {
@@ -277,6 +278,181 @@ li:nth-child(3n - 1)::marker {
   color: #000000;
   position: relative;
 }
+.list a:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #000000;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+}
+.list a:hover {
+  cursor: pointer;
+  color: #000000;
+}
+.list a:hover:after {
+  width: 100%;
+}
+
+select {
+  display: inline;
+  border: 0;
+  width: auto;
+  margin-left: 10px;
+  outline: none;
+  appearance: none;
+  -moz-appearance: none;
+  border-bottom: 2px solid #555;
+  color: #000000;
+  transition: all 0.4s ease-in-out;
+}
+select:hover {
+  cursor: pointer;
+}
+select option {
+  border: 0;
+  border-bottom: 1px solid #555;
+  padding: 10px;
+  appearance: none;
+  -moz-appearance: none;
+}
+
+.no-results {
+  text-align: center;
+}
+
+.placeholder {
+  border-bottom: 4px solid;
+  cursor: pointer;
+}
+.placeholder:hover {
+  color: #888888;
+}
+
+::marker {
+  content: "" !important;
+}
+
+.clear-button {
+  background: none;
+  border: none;
+  position: absolute;
+  left: 94%;
+  bottom: 10px;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  font-size: 24px;
+  color: #000000;
+}
+
+.thumbs .thumb {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.carousel-container {
+  max-width: 630px;
+  margin: auto;
+}
+
+.song-list-wrapper {
+  margin-top: 15px;
+}
+
+.song-list {
+  text-align: center;
+}
+
+.song-list li {
+  transition: all 0.4s;
+  color: #000000;
+  position: relative;
+  text-decoration: none;
+  display: block;
+  padding: 5px 0;
+}
+
+.song-list li:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #000000;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+  margin: auto;
+}
+
+.song-list li:hover {
+  cursor: pointer;
+  color: #000000;
+  margin: auto;
+  width: fit-content;
+}
+
+.song-list li:hover:after {
+  width: 100%;
+}
+
+.song-list {
+  font-family: "Gloria Hallelujah", cursive;
+  list-style-position: inside;
+  max-width: 400px;
+  box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+  padding: 0px 16px;
+  margin: 0;
+  border-radius: 0.1rem;
+  text-transform: lowercase;
+  margin-top: 10px;
+  list-style-type: none;
+  position: relative;
+  top: -16px;
+  margin: auto;
+  border-radius: 23px;
+}
+
+.list {
+  display: inline-block;
+  position: relative;
+  margin-left: 6px;
+}
+
+.list ul {
+  list-style-position: inside;
+  max-width: 400px;
+  box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+  padding: 0px 16px;
+  margin: 0;
+  border-radius: 0.1rem;
+
+  margin-top: 10px;
+  list-style-type: none;
+  position: relative;
+  top: -16px;
+  margin: auto;
+}
+.list ul.active {
+  display: block;
+  z-index: 10;
+  background-color: white;
+}
+
+.list li:first-child a {
+  color: #000000;
+}
+
+.list a {
+  transition: all 0.4s;
+  color: #000000;
+  position: relative;
+  text-decoration: none;
+  display: block;
+}
+
 .list a:after {
   position: absolute;
   content: "";
@@ -303,7 +479,6 @@ select {
   outline: none;
   appearance: none;
   -moz-appearance: none;
-  border-bottom: 2px solid #555;
   color: #7b00ff;
   transition: all 0.4s ease-in-out;
 }
@@ -312,7 +487,7 @@ select:hover {
 }
 select option {
   border: 0;
-  border-bottom: 1px solid #555;
+
   padding: 10px;
   appearance: none;
   -moz-appearance: none;
@@ -328,4 +503,154 @@ select option {
 
 ::marker {
   content: "" !important;
+}
+
+.list-button {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit; /* Inherit font styles from parent */
+  color: #000000;
+  cursor: pointer;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  transition: all 0.4s ease;
+  position: relative;
+}
+
+.list-button:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #b066ff;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+}
+
+.list-button:hover {
+  color: #b066ff;
+}
+
+.list-button:hover:after {
+  width: 100%;
+}
+
+.list li:first-child .list-button {
+  color: #000000;
+}
+
+.list ul.active li {
+  padding: 0px 10px;
+  text-align: center;
+  border: none;
+}
+
+.list__ul.active li:first-child {
+  margin-top: 0px;
+}
+
+.list__ul.active li:last-child {
+  margin-bottom: 0px;
+}
+
+.list__ul.active li {
+  padding: 0px 10px;
+  text-align: center;
+  border: none;
+}
+
+* List and Selector Styles */ .list-wrapper {
+  position: absolute;
+  width: 100%;
+}
+
+.song-list {
+  font-family: "Gloria Hallelujah", cursive;
+  list-style-position: inside;
+  max-width: 400px;
+  box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+  padding: 0px 16px;
+  margin: 10px auto 0;
+  border-radius: 23px;
+  text-transform: lowercase;
+  list-style-type: none;
+  position: relative;
+  top: -16px;
+}
+
+li {
+  padding: 0 0 0 1rem;
+}
+
+li:first-child {
+  margin-top: 1rem;
+}
+
+li:last-child {
+  margin-bottom: 1rem;
+}
+
+::marker {
+  content: "" !important;
+}
+
+li:nth-child(3n)::marker,
+li:nth-child(3n - 1)::marker {
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' width='14' viewBox='0 0 50 50'%3E%3Cpath d='M46.5 12.5c-.4-1.1-1.3-1.8-2.2-2-4.2-4-11.6-4.3-17.1-4.1-6.9.3-13.9 2.1-19.4 6.5C2 17.5-2.4 25.7 2.5 32.6c2.2 3.2 5.5 4.9 9 5.5 3.3 1.7 6.7 3.3 10.2 4.4 7.8 2.3 17 1.6 23.2-4.3 7.3-7 4.8-17.3 1.6-25.7zm-20.2 2.7c.6 0 1.3 0 1.8.2 1.1.4 1.7 1.3 2 2.3-1-1.2-2.4-2.1-3.8-2.5zm-1.4 6.6c.9.9 1.3 2.2-.2 2.3-2 .2-1.1-1.9.2-2.3zm-11.8 9.8c-.6-.3-2.9-1.1-3.2-1.8-.2-.5 1.4-3.1 2.1-4.2.3.5.7 1 1.2 1.4 0 .3.1.6.2.8.5 1.9 1.5 3.1 2.9 4h-.2c-.8.1-1.6.1-2.5-.1-.2 0-.3 0-.5-.1zM24 36.4c1.6-.7 3-1.5 4.3-2.5.8.2 1.7.3 2.5.5 2.5.4 5.2.9 7.7.6-.9.6-2 1.1-3 1.4-3.9 1.3-7.7 1-11.5 0z'/%3E%3C/svg%3E");
+}
+
+.list {
+  font-family: "Gloria Hallelujah", cursive;
+  display: inline-block;
+  position: relative;
+  margin-left: 6px;
+}
+
+.list ul {
+  text-align: left;
+  position: absolute;
+  padding: 0;
+  top: 0;
+  left: -14px;
+  display: none;
+}
+
+.list ul.active {
+  display: block;
+  z-index: 10;
+  width: max-content;
+}
+
+.list li:first-child a {
+  color: #000000;
+}
+
+.list a {
+  transition: all 0.4s;
+  color: #000000;
+  position: relative;
+}
+
+.list a:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #b066ff;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+}
+
+.list a:hover {
+  cursor: pointer;
+  color: #b066ff;
+}
+
+.list a:hover:after {
+  width: 100%;
 }

@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "../CustomSelector.css";
 
 const CustomSelector = ({ availableKeys, selectedKey, onKeyChange }) => {
   const [isListOpen, setIsListOpen] = useState(false);
@@ -10,30 +9,29 @@ const CustomSelector = ({ availableKeys, selectedKey, onKeyChange }) => {
   };
 
   const handleSelection = (key) => {
-    setPlaceholder(key.toUpperCase());
+    setPlaceholder(key);
     onKeyChange(key);
     setIsListOpen(false);
   };
 
   return (
     <div className="wrapper typo">
-      Key:
       <div className="list">
         <span className="placeholder" onClick={toggleList}>
-          {placeholder}
+          {placeholder === "BASS" ? `Bass clef` : `${placeholder} instruments`}
         </span>
         <ul className={`list__ul ${isListOpen ? "active" : ""}`}>
           {availableKeys.map((key) => (
             <li key={key}>
-              <a
-                href="#"
+              <button
                 onClick={(e) => {
                   e.preventDefault();
                   handleSelection(key);
                 }}
+                className="list-button"
               >
-                {key.toLowerCase()}
-              </a>
+                {key === "BASS" ? `Bass clef` : `${key} instruments`}
+              </button>
             </li>
           ))}
         </ul>
