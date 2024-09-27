@@ -38,16 +38,16 @@ body {
   font-family: "Gloria Hallelujah", cursive;
   background: none;
   border: none;
-  color: #a6a6a6; /* Change this to the color you prefer */
+  color: #a6a6a6;
   padding: 0;
   margin: 0;
-  font-size: 16px; /* Adjust the font size as needed */
-  cursor: pointer; /* Optional: Add underline to mimic a link */
+  font-size: 16px;
+  cursor: pointer;
 }
 
 .logout-button:hover {
-  color: #000000; /* Optional: Darken the color on hover */
-  text-decoration: none; /* Optional: Remove underline on hover */
+  color: #000000;
+  text-decoration: none;
 }
 
 .logo {
@@ -510,7 +510,7 @@ select option {
   border: none;
   padding: 0;
   margin: 0;
-  font: inherit; /* Inherit font styles from parent */
+  font: inherit;
   color: #000000;
   cursor: pointer;
   text-decoration: none;
@@ -563,7 +563,7 @@ select option {
   border: none;
 }
 
-* List and Selector Styles */ .list-wrapper {
+.list-wrapper {
   position: absolute;
   width: 100%;
 }
