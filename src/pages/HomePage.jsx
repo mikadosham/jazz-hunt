@@ -85,6 +85,7 @@ function HomePage() {
   };
 
   const renderPages = (startPage, pdfUrl, numPages) => {
+    console.log("Attempting to load PDF from URL:", pdfUrl);
     if (!pdfUrl) {
       console.error("Invalid PDF URL:", pdfUrl);
       alert("The PDF file could not be found.");
