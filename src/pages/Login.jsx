@@ -32,17 +32,7 @@ function Login() {
   return (
     <div className="login-wrapper">
       <form className="login-form" onSubmit={handleLogin}>
-        <div className="field">
-          <input
-            type="password"
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-            placeholder="Password"
-            id="password"
-          />
-          <label className="pulse" htmlFor="password">
-            password
-          </label>
+        <div className="login-field">
           <input
             type="email"
             value={email}
@@ -52,6 +42,16 @@ function Login() {
           />
           <label className="pulse" htmlFor="email">
             email
+          </label>
+          <input
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            placeholder="Password"
+            id="password"
+          />
+          <label className="pulse" htmlFor="password">
+            password
           </label>
         </div>
         <button className="login-button" type="submit">
