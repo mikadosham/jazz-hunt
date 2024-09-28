@@ -10,9 +10,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExpand, faCompress } from "@fortawesome/free-solid-svg-icons";
 import { auth } from "../firebase";
 import pdfMapping from "../pdfMapping";
-
-console.log("pdfMapping:", pdfMapping);
-console.log("PDF.js version:", pdfjsLib.version);
+import loadingGif from "../assets/loading.gif";
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 
@@ -20,29 +18,24 @@ function HomePage() {
   const [songData, setSongData] = useState([]);
   const [query, setQuery] = useState("");
   const [filteredSongs, setFilteredSongs] = useState([]);
-  const [selectedKey, setSelectedKey] = useState("c"); // Default to 'c'
+  const [selectedKey, setSelectedKey] = useState("c");
   const [result, setResult] = useState(null);
-  const [pages, setPages] = useState([]); // Holds the images for all pages
-  const [isFullScreen, setIsFullScreen] = useState(false); // State to handle fullscreen mode
-  const pdfSectionRef = useRef(null); // Reference for the PDF section
+  const [pages, setPages] = useState([]);
+  const [isFullScreen, setIsFullScreen] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const pdfSectionRef = useRef(null);
 
   const handleLogout = () => {
-    auth
-      .signOut()
-      .then(() => {
-        console.log("User signed out successfully.");
-        // You can redirect the user to the login page or perform other actions here
-      })
-      .catch((error) => {
-        console.error("Error signing out:", error);
-      });
+    auth.signOut().catch((error) => {
+      console.error("Error signing out:", error);
+    });
   };
 
   useEffect(() => {
     fetch("/real_book_contents.json")
       .then((response) => response.json())
       .then((data) => {
-        setSongData(data.standards || []); // Ensure it's always an array
+        setSongData(data.standards || []);
       });
   }, []);
 
@@ -71,23 +64,19 @@ function HomePage() {
     setSelectedKey(key);
 
     if (result) {
-      const volumeKey = `vol${result.volume}-5th`;
-      const pdfUrl = pdfMapping[volumeKey]?.[key.toLowerCase()];
+      const volume = `vol${result.volume}-5th`;
+      const pdfUrl = pdfMapping[volume]?.[key.toLowerCase()];
+
+      console.log("CHECK volume = " + volume);
+      console.log("CHECK key = " + key);
 
       if (pdfUrl) {
         renderPages(result.page, pdfUrl, result.num_pages);
       } else {
-        console.error(
-          "PDF URL not found for volumeKey:",
-          volumeKey,
-          "and key:",
-          key
-        );
-        alert("The selected PDF file could not be found.");
+        console.error(`PDF URL not found for ${volume}-${key}`);
       }
     }
   };
-  console.log("pdfmapping:" + pdfMapping);
 
   const handleSelectSong = (song) => {
     setResult(song);
@@ -101,22 +90,13 @@ function HomePage() {
 
     if (firstAvailableKey) {
       setSelectedKey(firstAvailableKey);
-      const volumeKey = `vol${song.volume}-5th`; // Assuming 'volume' holds the number like '1', '2', etc.
-      const pdfUrl = pdfMapping[volumeKey]?.[firstAvailableKey];
-
-      console.log("Volume Key:", volumeKey);
-      console.log("First Available Key:", firstAvailableKey);
-      console.log("PDF URL:", pdfUrl); // Add this line to log the actual PDF URL being selected
+      const volume = `vol${song.volume}-5th`; // Assuming 'volume' holds the number like '1', '2', etc.
+      const pdfUrl = pdfMapping[volume]?.[firstAvailableKey];
 
       if (pdfUrl) {
         renderPages(song.page, pdfUrl, song.num_pages);
       } else {
-        console.error(
-          "PDF URL not found for volumeKey:",
-          volumeKey,
-          "and key:",
-          firstAvailableKey
-        );
+        console.error(`PDF URL not found for ${volume}-${firstAvailableKey}`);
       }
     }
   };
@@ -127,6 +107,8 @@ function HomePage() {
       alert("The PDF file could not be found.");
       return;
     }
+    console.log("loading");
+    setLoading(true); // Start loading animation
 
     pdfjsLib
       .getDocument({ url: pdfUrl })
@@ -145,7 +127,6 @@ function HomePage() {
           canvas.height = viewport.height;
           canvas.width = viewport.width;
 
-          // Render the page onto the canvas and return a promise
           return page
             .render({ canvasContext: context, viewport })
             .promise.then(() => {
@@ -157,6 +138,10 @@ function HomePage() {
       .then((images) => {
         setPages(images);
         pdfSectionRef.current?.scrollIntoView({ behavior: "smooth" });
+      })
+      .finally(() => {
+        setLoading(false);
+        console.log("loaded");
       })
       .catch((error) => {
         console.error("Error rendering pages:", error);
@@ -190,44 +175,56 @@ function HomePage() {
       />
       <SongList songs={filteredSongs} onSelectSong={handleSelectSong} />
 
-      {result && (
-        <div className="results" ref={pdfSectionRef}>
-          <div className="settings-wrapper">
-            <button
-              onClick={toggleFullscreen}
-              className={
-                isFullScreen
-                  ? "fullscreen-icon compress"
-                  : "fullscreen-icon expand"
-              }
-            >
-              <FontAwesomeIcon icon={isFullScreen ? faCompress : faExpand} />
-            </button>
-            <KeySelector
-              availableKeys={["C", "Bb", "Eb", "BASS"].filter(
-                (key) => result[key] !== "null"
-              )}
-              selectedKey={selectedKey}
-              onKeyChange={handleKeyChange}
-            />
-          </div>
-          <div
-            className={`carousel-container ${isFullScreen ? "fullscreen" : ""}`}
-          >
-            <Carousel
-              showArrows={true}
-              emulateTouch={true}
-              renderIndicator={() => null}
-              dynamicHeight={false}
-            >
-              {pages.map((page, index) => (
-                <div key={index}>
-                  <img src={page} alt={`Page ${index + 1}`} />
-                </div>
-              ))}
-            </Carousel>
-          </div>
+      {loading ? (
+        <div className="loading-container">
+          <img
+            src={loadingGif}
+            alt="Loading..."
+            className="loading-animation"
+          />
         </div>
+      ) : (
+        result && (
+          <div className="results" ref={pdfSectionRef}>
+            <div className="settings-wrapper">
+              <button
+                onClick={toggleFullscreen}
+                className={
+                  isFullScreen
+                    ? "fullscreen-icon compress"
+                    : "fullscreen-icon expand"
+                }
+              >
+                <FontAwesomeIcon icon={isFullScreen ? faCompress : faExpand} />
+              </button>
+              <KeySelector
+                availableKeys={["C", "Bb", "Eb", "BASS"].filter(
+                  (key) => result[key] !== "null"
+                )}
+                selectedKey={selectedKey}
+                onKeyChange={handleKeyChange}
+              />
+            </div>
+            <div
+              className={`carousel-container ${
+                isFullScreen ? "fullscreen" : ""
+              }`}
+            >
+              <Carousel
+                showArrows={true}
+                emulateTouch={true}
+                renderIndicator={() => null}
+                dynamicHeight={false}
+              >
+                {pages.map((page, index) => (
+                  <div key={index}>
+                    <img src={page} alt={`Page ${index + 1}`} />
+                  </div>
+                ))}
+              </Carousel>
+            </div>
+          </div>
+        )
       )}
 
       {!result && query && filteredSongs.length === 0 && (

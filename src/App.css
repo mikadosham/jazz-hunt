@@ -630,3 +630,14 @@ li:last-child {
 .list a:hover:after {
   width: 100%;
 }
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.loading-animation {
+  width: 50px;
+}
