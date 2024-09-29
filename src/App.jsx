@@ -14,7 +14,7 @@ import {
   setPersistence,
   browserLocalPersistence,
 } from "firebase/auth";
-
+import loadingGif from "./assets/loading.gif";
 import "./App.css";
 
 function App() {
@@ -42,7 +42,11 @@ function App() {
 
   if (loading) {
     // While loading, you could return a loading spinner or null
-    return <div>Loading...</div>;
+    return (
+      <div className="loading-container">
+        <img src={loadingGif} alt="Loading..." className="loading-animation" />
+      </div>
+    );
   }
 
   return (
