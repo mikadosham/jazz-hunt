@@ -67,9 +67,6 @@ function HomePage() {
       const volume = `vol${result.volume}-5th`;
       const pdfUrl = pdfMapping[volume]?.[key.toLowerCase()];
 
-      console.log("CHECK volume = " + volume);
-      console.log("CHECK key = " + key);
-
       if (pdfUrl) {
         renderPages(result.page, pdfUrl, result.num_pages);
       } else {
@@ -101,47 +98,52 @@ function HomePage() {
     }
   };
 
+  const renderPage = (pdf, pageNumber) => {
+    return pdf.getPage(pageNumber).then((page) => {
+      const viewport = page.getViewport({ scale: 1.5 });
+      const canvas = document.createElement("canvas");
+      const context = canvas.getContext("2d");
+      canvas.height = viewport.height;
+      canvas.width = viewport.width;
+
+      return page
+        .render({ canvasContext: context, viewport })
+        .promise.then(() => {
+          return canvas.toDataURL();
+        });
+    });
+  };
+
   const renderPages = (startPage, pdfUrl, numPages) => {
     if (!pdfUrl) {
       console.error("Invalid PDF URL:", pdfUrl);
       alert("The PDF file could not be found.");
       return;
     }
-    console.log("loading");
+
     setLoading(true); // Start loading animation
 
     pdfjsLib
       .getDocument({ url: pdfUrl })
       .promise.then((pdf) => {
-        const pagePromises = [];
-        for (let i = 0; i < numPages; i++) {
-          pagePromises.push(pdf.getPage(startPage + i));
-        }
-        return Promise.all(pagePromises);
-      })
-      .then((pages) => {
-        const pageImages = pages.map((page) => {
-          const viewport = page.getViewport({ scale: 1.5 });
-          const canvas = document.createElement("canvas");
-          const context = canvas.getContext("2d");
-          canvas.height = viewport.height;
-          canvas.width = viewport.width;
+        // Lazy load the first page immediately
+        return renderPage(pdf, startPage).then((firstPageImage) => {
+          setPages([firstPageImage]);
+          pdfSectionRef.current?.scrollIntoView({ behavior: "smooth" });
 
-          return page
-            .render({ canvasContext: context, viewport })
-            .promise.then(() => {
-              return canvas.toDataURL();
-            });
+          // Load remaining pages in the background
+          const remainingPagePromises = [];
+          for (let i = 1; i < numPages; i++) {
+            remainingPagePromises.push(renderPage(pdf, startPage + i));
+          }
+
+          return Promise.all(remainingPagePromises).then((remainingPages) => {
+            setPages((prevPages) => [...prevPages, ...remainingPages]);
+          });
         });
-        return Promise.all(pageImages);
-      })
-      .then((images) => {
-        setPages(images);
-        pdfSectionRef.current?.scrollIntoView({ behavior: "smooth" });
       })
       .finally(() => {
-        setLoading(false);
-        console.log("loaded");
+        setLoading(false); // End loading animation
       })
       .catch((error) => {
         console.error("Error rendering pages:", error);
