@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
 
 :root {
   --background: #ffffff;
@@ -20,8 +18,736 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
+
+.main {
+  margin: auto;
+}
+
+.slide.selected {
+  text-align: center;
+}
+
+.slide.selected img {
+  max-width: 605px;
+}
+
+.carousel-status {
+  display: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Gloria Hallelujah", cursive;
+}
+
+.header {
+  position: relative;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.logout-button {
+  position: absolute;
+  top: 10px;
+  right: 23px;
+  font-family: "Gloria Hallelujah", cursive;
+  background: none;
+  border: none;
+  color: #a6a6a6;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+.logo {
+  max-width: 150px;
+}
+.container {
+  position: relative;
+}
+.main {
+  width: 100%;
+}
+
+.hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.field {
+  font-family: "Gloria Hallelujah", cursive;
+  position: relative;
+  margin-top: 10px;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+  max-width: 368px;
+  margin: auto;
+  margin-top: 50px;
+}
+label,
+input {
+  font-family: "Gloria Hallelujah", cursive;
+  transition: all 200ms ease;
+}
+input {
+  font-size: 18px;
+  border: 0;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
+  padding: 5px 17px;
+  text-align: center;
+}
+input:focus {
+  outline: 0;
+  border-color: #000000;
+}
+input:-moz-placeholder-shown + label {
+  cursor: text;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transform-origin: center bottom;
+  transform: translate(0, 2.125em) scale(1.5);
+}
+input:-ms-input-placeholder + label {
+  cursor: text;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transform-origin: left bottom;
+  transform: translate(0, 2.125em) scale(1.5);
+}
+input:placeholder-shown + label {
+  cursor: text;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transform-origin: center bottom;
+  transform: translate(0, 3.125em) scale(1.5);
+}
+input:not(:-moz-placeholder-shown) + label {
+  transform: translate(0, 0) scale(1);
+  cursor: default;
+  color: #000000;
+}
+input:not(:-ms-input-placeholder) + label {
+  transform: translate(0, 0) scale(1);
+  cursor: default;
+  color: #000000;
+}
+input:not(:placeholder-shown) + label,
+input:focus + label {
+  transform: translate(0, 0) scale(0.8);
+  cursor: default;
+  color: #000000;
+}
+label {
+  color: #ccc;
+  font-size: 12px;
+}
+
+.pulse {
+  animation: pulsate 3s ease-out;
+  animation-iteration-count: infinite;
+  opacity: 0.3;
+}
+@keyframes pulsate {
+  0% {
+    opacity: 0.3;
   }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+::-webkit-input-placeholder {
+  opacity: 0;
+  -webkit-transition: inherit;
+  transition: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.list-wrapper {
+  position: absolute;
+  width: 100%;
+}
+
+li {
+  padding: 0 0 0 1rem;
+}
+
+li:first-child {
+  margin-top: 1rem;
+}
+
+li:last-child {
+  margin-bottom: 1rem;
+}
+
+.settings-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.fullscreen-icon {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  font-size: 24px;
+  color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.expand {
+  transition: transform 0.3s ease;
+}
+
+.compress {
+  transition: transform 0.3s ease;
+}
+
+.expand:hover {
+  transform: scale(1.2);
+}
+.compress:hover {
+  transform: scale(0.8);
+}
+
+.transition {
+  transition: all 0.4s ease-in-out;
+}
+
+.wrapper {
+  font-size: 12px;
+}
+
+.list {
+  font-family: "Gloria Hallelujah", cursive;
+  display: inline-block;
+  position: relative;
+  margin-left: 6px;
+}
+
+.list ul {
+  text-align: left;
+  position: absolute;
+  padding: 0;
+  top: 0;
+  left: -14px;
+  display: none;
+  marker: none;
+}
+.list ul.active {
+  display: block;
+  z-index: 10;
+  width: max-content;
+}
+
+.list li:first-child a {
+  color: #000000;
+}
+.list a {
+  transition: all 0.4s;
+  color: #000000;
+  position: relative;
+}
+.list a:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #000000;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+}
+.list a:hover {
+  cursor: pointer;
+  color: #000000;
+}
+.list a:hover:after {
+  width: 100%;
+}
+
+select {
+  display: inline;
+  border: 0;
+  width: auto;
+  margin-left: 10px;
+  outline: none;
+  appearance: none;
+  -moz-appearance: none;
+  border-bottom: 2px solid #555;
+  color: #000000;
+  transition: all 0.4s ease-in-out;
+}
+select:hover {
+  cursor: pointer;
+}
+select option {
+  border: 0;
+  border-bottom: 1px solid #555;
+  padding: 10px;
+  appearance: none;
+  -moz-appearance: none;
+}
+
+.no-results {
+  text-align: center;
+}
+
+.placeholder {
+  border-bottom: 4px solid;
+  cursor: pointer;
+}
+.placeholder:hover {
+  color: #888888;
+}
+
+::marker {
+  content: "" !important;
+}
+
+.clear-button {
+  background: none;
+  border: none;
+  position: absolute;
+  left: 92%;
+  bottom: 33px;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  font-size: 24px;
+  color: #000000;
+}
+
+.thumbs .thumb {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.carousel-container {
+  max-width: 630px;
+  margin: auto;
+}
+
+.song-list-wrapper {
+  margin-top: 15px;
+}
+
+.song-list {
+  text-align: center;
+}
+
+.song-list li {
+  transition: all 0.4s;
+  color: #000000;
+  position: relative;
+  text-decoration: none;
+  display: block;
+  padding: 5px 0;
+}
+
+.song-list li:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #000000;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+  margin: auto;
+}
+
+.song-list li:hover {
+  cursor: pointer;
+  color: #000000;
+  margin: auto;
+  width: fit-content;
+}
+
+.song-list li:hover:after {
+  width: 100%;
+}
+
+.song-list {
+  font-family: "Gloria Hallelujah", cursive;
+  list-style-position: inside;
+  max-width: 400px;
+  box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+  padding: 0px 16px;
+  margin: 0;
+  border-radius: 0.1rem;
+  text-transform: lowercase;
+  margin-top: 10px;
+  list-style-type: none;
+  position: relative;
+  top: -16px;
+  margin: auto;
+  border-radius: 23px;
+}
+
+.list {
+  display: inline-block;
+  position: relative;
+  margin-left: 6px;
+}
+
+.list ul {
+  list-style-position: inside;
+  max-width: 400px;
+  box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+  padding: 0px 16px;
+  margin: 0;
+  border-radius: 0.1rem;
+
+  margin-top: 10px;
+  list-style-type: none;
+  position: relative;
+  top: -16px;
+  margin: auto;
+}
+.list ul.active {
+  display: block;
+  z-index: 10;
+  background-color: white;
+}
+
+.list li:first-child a {
+  color: #000000;
+}
+
+.list a {
+  transition: all 0.4s;
+  color: #000000;
+  position: relative;
+  text-decoration: none;
+  display: block;
+}
+
+.list a:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #b066ff;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+}
+.list a:hover {
+  cursor: pointer;
+  color: #b066ff;
+}
+.list a:hover:after {
+  width: 100%;
+}
+
+select {
+  display: inline;
+  border: 0;
+  width: auto;
+  margin-left: 10px;
+  outline: none;
+  appearance: none;
+  -moz-appearance: none;
+  color: #7b00ff;
+  transition: all 0.4s ease-in-out;
+}
+select:hover {
+  cursor: pointer;
+}
+select option {
+  border: 0;
+
+  padding: 10px;
+  appearance: none;
+  -moz-appearance: none;
+}
+
+.placeholder {
+  border-bottom: 4px solid;
+  cursor: pointer;
+}
+.placeholder:hover {
+  color: #888888;
+}
+
+::marker {
+  content: "" !important;
+}
+
+.list-button {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: #000000;
+  cursor: pointer;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  transition: all 0.4s ease;
+  position: relative;
+}
+
+.list-button:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #b066ff;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+}
+
+.list-button:hover {
+  color: #b066ff;
+}
+
+.list-button:hover:after {
+  width: 100%;
+}
+
+.list li:first-child .list-button {
+  color: #000000;
+}
+
+.list ul.active li {
+  padding: 0px 10px;
+  text-align: center;
+  border: none;
+}
+
+.list__ul.active li:first-child {
+  margin-top: 0px;
+}
+
+.list__ul.active li:last-child {
+  margin-bottom: 0px;
+}
+
+.list__ul.active li {
+  padding: 0px 10px;
+  text-align: center;
+  border: none;
+}
+
+.list-wrapper {
+  position: absolute;
+  width: 100%;
+}
+
+.song-list {
+  font-family: "Gloria Hallelujah", cursive;
+  list-style-position: inside;
+  max-width: 400px;
+  box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+  padding: 0px 16px;
+  margin: 10px auto 0;
+  border-radius: 23px;
+  text-transform: lowercase;
+  list-style-type: none;
+  position: relative;
+  top: -16px;
+}
+
+li {
+  padding: 0 0 0 1rem;
+}
+
+li:first-child {
+  margin-top: 1rem;
+}
+
+li:last-child {
+  margin-bottom: 1rem;
+}
+
+.list {
+  font-family: "Gloria Hallelujah", cursive;
+  display: inline-block;
+  position: relative;
+  margin-left: 6px;
+}
+
+.list ul {
+  text-align: left;
+  position: absolute;
+  padding: 0;
+  top: 0;
+  left: -14px;
+  display: none;
+}
+
+.list ul.active {
+  display: block;
+  z-index: 10;
+  width: max-content;
+}
+
+.list li:first-child a {
+  color: #000000;
+}
+
+.list a {
+  transition: all 0.4s;
+  color: #000000;
+  position: relative;
+}
+
+.list a:after {
+  position: absolute;
+  content: "";
+  height: 5px;
+  width: 0;
+  left: 0;
+  background: #b066ff;
+  bottom: 0;
+  transition: all 0.4s ease-out;
+}
+
+.list a:hover {
+  cursor: pointer;
+  color: #b066ff;
+}
+
+.list a:hover:after {
+  width: 100%;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.loading-animation {
+  width: 50px;
+}
+
+.login-label,
+.pulse {
+  position: relative;
+  bottom: 70px;
+}
+
+.login-wrapper {
+  text-align: center;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+.login-field {
+  font-family: "Gloria Hallelujah", cursive;
+  position: relative;
+  margin-top: 10px;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+  max-width: 368px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.login-button {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  font-family: Gloria Hallelujah, cursive;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.login-button:hover {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+.login-field input:placeholder-shown + label {
+  cursor: text;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transform-origin: center bottom;
+  transform: translate(0, 3.125em) scale(1.5);
+  top: -65px;
+  position: relative;
+}
+
+.login-field input:not(:placeholder-shown) + label,
+.login-field input:focus + label {
+  transform: translate(0, 0) scale(0.8);
+  cursor: default;
+  color: #000000;
+  position: relative;
+  top: -70px;
+}
+
+.swiper-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+}
+
+.main-swiper {
+  flex: 1;
+  width: 80%;
+}
+
+.thumbs-swiper {
+  width: 20%;
+}
+
+.thumbs-swiper .swiper-slide {
+  height: 100% !important;
+}
+
+.results {
+  max-width: 500px;
+  margin: auto;
 }
