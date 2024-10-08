@@ -166,7 +166,7 @@ function HomePage() {
 
   return (
     <div className="main">
-      <button className="logout-button" onClick={handleLogout}>
+      <button className="hidden logout-button" onClick={handleLogout}>
         Logout
       </button>
 
