@@ -352,12 +352,13 @@ select option {
 }
 
 .song-list li {
-  transition: all 0.4s;
   color: #000000;
   position: relative;
   text-decoration: none;
   display: block;
   padding: 5px 0;
+  margin: auto;
+  width: fit-content;
 }
 
 .song-list li:after {

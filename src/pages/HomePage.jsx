@@ -9,7 +9,7 @@ import KeySelector from "../components/KeySelector";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExpand, faCompress } from "@fortawesome/free-solid-svg-icons";
 import { auth } from "../firebase";
-import pdfMapping from "../pdfMapping";
+//import pdfMapping from "../pdfMapping";
 import loadingGif from "../assets/loading.gif";
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker;
@@ -64,37 +64,49 @@ function HomePage() {
     setSelectedKey(key);
 
     if (result) {
-      const volume = `vol${result.volume}-5th`;
-      const pdfUrl = pdfMapping[volume]?.[key.toLowerCase()];
-
-      if (pdfUrl) {
-        renderPages(result.page, pdfUrl, result.num_pages);
+      const selectedVersion = result.versions[key];
+      if (
+        selectedVersion &&
+        selectedVersion.file &&
+        selectedVersion.page !== null
+      ) {
+        renderPages(
+          selectedVersion.page, // Starting page for the selected key
+          selectedVersion.file, // PDF file URL for the selected key
+          selectedVersion.num_pages // Number of pages for the selected key
+        );
       } else {
-        console.error(`PDF URL not found for ${volume}-${key}`);
+        console.error(`Data missing for the ${key} version.`);
       }
+    } else {
+      console.error("No song selected to change key.");
     }
   };
 
   const handleSelectSong = (song) => {
     setResult(song);
     setFilteredSongs([]);
-    setQuery(song.title); // Update the search input with the selected song's title
+    setQuery(song.title);
 
-    const availableKeys = ["c", "bass", "bb", "eb"];
+    const availableKeys = ["C", "Bb", "Eb", "Bass"];
     const firstAvailableKey = availableKeys.find(
-      (key) => song[key.toUpperCase()] !== "null"
+      (key) => song.versions[key]?.file
     );
 
     if (firstAvailableKey) {
       setSelectedKey(firstAvailableKey);
-      const volume = `vol${song.volume}-5th`; // Assuming 'volume' holds the number like '1', '2', etc.
-      const pdfUrl = pdfMapping[volume]?.[firstAvailableKey];
-
-      if (pdfUrl) {
-        renderPages(song.page, pdfUrl, song.num_pages);
+      const selectedVersion = song.versions[firstAvailableKey];
+      if (selectedVersion?.file && selectedVersion.page !== null) {
+        renderPages(
+          selectedVersion.page,
+          selectedVersion.file,
+          selectedVersion.num_pages
+        );
       } else {
-        console.error(`PDF URL not found for ${volume}-${firstAvailableKey}`);
+        console.error(`Data missing for ${firstAvailableKey} version.`);
       }
+    } else {
+      console.error("No available keys found for this song.");
     }
   };
 
@@ -121,15 +133,17 @@ function HomePage() {
       return;
     }
 
+    const fullPdfUrl = "/real_books/" + pdfUrl;
+
     setLoading(true); // Start loading animation
 
     pdfjsLib
-      .getDocument({ url: pdfUrl })
+      .getDocument({ url: fullPdfUrl })
       .promise.then((pdf) => {
-        // Lazy load the first page immediately
+        // Load the first page
         return renderPage(pdf, startPage).then((firstPageImage) => {
-          setPages([firstPageImage]);
-          pdfSectionRef.current?.scrollIntoView({ behavior: "smooth" });
+          setPages([firstPageImage]); // Display the first page
+          pdfSectionRef.current?.scrollIntoView({ behavior: "smooth" }); // Scroll to the PDF section
 
           // Load remaining pages in the background
           const remainingPagePromises = [];
@@ -137,6 +151,7 @@ function HomePage() {
             remainingPagePromises.push(renderPage(pdf, startPage + i));
           }
 
+          // Add the remaining pages once all are loaded
           return Promise.all(remainingPagePromises).then((remainingPages) => {
             setPages((prevPages) => [...prevPages, ...remainingPages]);
           });
@@ -149,19 +164,6 @@ function HomePage() {
         console.error("Error rendering pages:", error);
         alert("Sorry, we encountered an issue while loading the document.");
       });
-  };
-
-  const toggleFullscreen = () => {
-    if (!isFullScreen) {
-      if (document.documentElement.requestFullscreen) {
-        document.documentElement.requestFullscreen();
-      }
-    } else {
-      if (document.exitFullscreen) {
-        document.exitFullscreen();
-      }
-    }
-    setIsFullScreen(!isFullScreen);
   };
 
   return (
@@ -189,19 +191,9 @@ function HomePage() {
         result && (
           <div className="results" ref={pdfSectionRef}>
             <div className="settings-wrapper">
-              <button
-                onClick={toggleFullscreen}
-                className={
-                  isFullScreen
-                    ? "fullscreen-icon compress"
-                    : "fullscreen-icon expand"
-                }
-              >
-                <FontAwesomeIcon icon={isFullScreen ? faCompress : faExpand} />
-              </button>
               <KeySelector
-                availableKeys={["C", "Bb", "Eb", "BASS"].filter(
-                  (key) => result[key] !== "null"
+                availableKeys={["C", "Bb", "Eb", "Bass"].filter(
+                  (key) => result.versions[key] && result.versions[key].file
                 )}
                 selectedKey={selectedKey}
                 onKeyChange={handleKeyChange}
