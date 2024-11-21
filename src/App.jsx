@@ -1,10 +1,5 @@
 import React, { useState, useEffect } from "react";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Navigate,
-} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import Login from "./pages/Login";
 import logo from "./assets/logo.png";
@@ -18,7 +13,6 @@ import loadingGif from "./assets/loading.gif";
 import "./App.css";
 
 function App() {
-  const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true); // Add a loading state
 
   useEffect(() => {
@@ -27,7 +21,6 @@ function App() {
       .then(() => {
         // Check if the user is already logged in
         const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
-          setUser(currentUser);
           setLoading(false); // Set loading to false once the auth state is determined
         });
 

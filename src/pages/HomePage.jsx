@@ -6,8 +6,6 @@ import SongList from "../components/SongList";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import KeySelector from "../components/KeySelector";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faExpand, faCompress } from "@fortawesome/free-solid-svg-icons";
 import { auth } from "../firebase";
 //import pdfMapping from "../pdfMapping";
 import loadingGif from "../assets/loading.gif";
@@ -21,7 +19,6 @@ function HomePage() {
   const [selectedKey, setSelectedKey] = useState("c");
   const [result, setResult] = useState(null);
   const [pages, setPages] = useState([]);
-  const [isFullScreen, setIsFullScreen] = useState(false);
   const [loading, setLoading] = useState(false);
   const pdfSectionRef = useRef(null);
 
@@ -199,11 +196,7 @@ function HomePage() {
                 onKeyChange={handleKeyChange}
               />
             </div>
-            <div
-              className={`carousel-container ${
-                isFullScreen ? "fullscreen" : ""
-              }`}
-            >
+            <div className={"carousel-container"}>
               <Carousel
                 showArrows={true}
                 emulateTouch={true}
