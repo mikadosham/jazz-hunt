@@ -29276,12 +29276,29 @@
       "versions": {
         "C": {
           "page": 11,
-          "num_pages": 2,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 11,
-          "num_pages": 2,
+          "num_pages": 1,
+          "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "BLUE CHRISTMAS",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
+          "page": 12,
+          "num_pages": 1,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 12,
+          "num_pages": 1,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -29310,29 +29327,12 @@
       "versions": {
         "C": {
           "page": 15,
-          "num_pages": -3,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 15,
-          "num_pages": -3,
-          "file": "xmas-2nd-Bb.pdf"
-        }
-      }
-    },
-    {
-      "title": "BLUE CHRISTMAS",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 12,
-          "num_pages": 5,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 12,
-          "num_pages": 5,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -29355,35 +29355,35 @@
       }
     },
     {
-      "title": "BRAZILIAN SLEIGH BELLS",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 19,
-          "num_pages": -1,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 19,
-          "num_pages": -1,
-          "file": "xmas-2nd-Bb.pdf"
-        }
-      }
-    },
-    {
       "title": "BRING A TORCH, JEANNETTE, ISABELLA",
       "volume": "x",
       "edition": 1,
       "versions": {
         "C": {
           "page": 18,
-          "num_pages": 3,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 18,
-          "num_pages": 3,
+          "num_pages": 1,
+          "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "BRAZILIAN SLEIGH BELLS",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
+          "page": 19,
+          "num_pages": 1,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 19,
+          "num_pages": 1,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -29475,12 +29475,12 @@
       "versions": {
         "C": {
           "page": 27,
-          "num_pages": -1,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 27,
-          "num_pages": 3,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -29492,7 +29492,7 @@
       "versions": {
         "C": {
           "page": 26,
-          "num_pages": 3,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
@@ -29588,35 +29588,35 @@
       }
     },
     {
-      "title": "COLD DECEMBER NIGHTS",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 37,
-          "num_pages": -1,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 39,
-          "num_pages": -1,
-          "file": "xmas-2nd-Bb.pdf"
-        }
-      }
-    },
-    {
       "title": "COVENTRY CAROL",
       "volume": "x",
       "edition": 1,
       "versions": {
         "C": {
           "page": 36,
-          "num_pages": 3,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 38,
-          "num_pages": 3,
+          "num_pages": 1,
+          "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "COLD DECEMBER NIGHTS",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
+          "page": 37,
+          "num_pages": 2,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 39,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -29662,11 +29662,28 @@
       "versions": {
         "C": {
           "page": 41,
-          "num_pages": 2,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 43,
+          "num_pages": 1,
+          "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "DO YOU HEAR WHAT I HEAR",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
+          "page": 42,
+          "num_pages": 1,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 44,
           "num_pages": 1,
           "file": "xmas-2nd-Bb.pdf"
         }
@@ -29679,25 +29696,8 @@
       "versions": {
         "C": {
           "page": 43,
-          "num_pages": -1,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
-        }
-      }
-    },
-    {
-      "title": "DO YOU HEAR WHAT I HEAR",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 42,
-          "num_pages": 3,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 44,
-          "num_pages": 3,
-          "file": "xmas-2nd-Bb.pdf"
         }
       }
     },
@@ -29793,12 +29793,29 @@
       "versions": {
         "C": {
           "page": 51,
-          "num_pages": 2,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 53,
-          "num_pages": 2,
+          "num_pages": 1,
+          "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "GO, TELL IT ON THE MOUNTAIN",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
+          "page": 52,
+          "num_pages": 1,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 54,
+          "num_pages": 1,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -29827,29 +29844,12 @@
       "versions": {
         "C": {
           "page": 55,
-          "num_pages": -3,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 57,
-          "num_pages": -3,
-          "file": "xmas-2nd-Bb.pdf"
-        }
-      }
-    },
-    {
-      "title": "GO, TELL IT ON THE MOUNTAIN",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 52,
-          "num_pages": 5,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 54,
-          "num_pages": 5,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -29895,12 +29895,29 @@
       "versions": {
         "C": {
           "page": 59,
-          "num_pages": 2,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 61,
-          "num_pages": 2,
+          "num_pages": 1,
+          "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "GREENWILLOW CHRISTMAS",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
+          "page": 60,
+          "num_pages": 1,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 62,
+          "num_pages": 1,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -29946,29 +29963,12 @@
       "versions": {
         "C": {
           "page": 65,
-          "num_pages": -5,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 67,
-          "num_pages": -5,
-          "file": "xmas-2nd-Bb.pdf"
-        }
-      }
-    },
-    {
-      "title": "GREENWILLOW CHRISTMAS",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 60,
-          "num_pages": 7,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 62,
-          "num_pages": 7,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -30014,12 +30014,29 @@
       "versions": {
         "C": {
           "page": 71,
-          "num_pages": 2,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 73,
-          "num_pages": 2,
+          "num_pages": 1,
+          "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "HAPPY HOLIDAY",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
+          "page": 72,
+          "num_pages": 1,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 74,
+          "num_pages": 1,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -30036,24 +30053,7 @@
         },
         "Bb": {
           "page": 75,
-          "num_pages": -1,
-          "file": "xmas-2nd-Bb.pdf"
-        }
-      }
-    },
-    {
-      "title": "HAPPY HOLIDAY",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 75,
           "num_pages": 2,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 74,
-          "num_pages": 3,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -30064,7 +30064,7 @@
       "edition": 1,
       "versions": {
         "C": {
-          "page": 77,
+          "page": 75,
           "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
@@ -30081,8 +30081,8 @@
       "edition": 1,
       "versions": {
         "C": {
-          "page": 79,
-          "num_pages": 1,
+          "page": 77,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
@@ -30098,13 +30098,30 @@
       "edition": 1,
       "versions": {
         "C": {
+          "page": 79,
+          "num_pages": 1,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 81,
+          "num_pages": 1,
+          "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "HE",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
           "page": 80,
           "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 81,
-          "num_pages": 4,
+          "num_pages": 1,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -30252,12 +30269,12 @@
       "versions": {
         "C": {
           "page": 91,
-          "num_pages": -1,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 97,
-          "num_pages": -1,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -30269,7 +30286,7 @@
       "versions": {
         "C": {
           "page": 90,
-          "num_pages": 3,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
@@ -30536,7 +30553,7 @@
         },
         "Bb": {
           "page": 133,
-          "num_pages": -7,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -30604,7 +30621,7 @@
         },
         "Bb": {
           "page": 141,
-          "num_pages": -3,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -30616,11 +30633,28 @@
       "versions": {
         "C": {
           "page": 131,
-          "num_pages": 2,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 138,
+          "num_pages": 1,
+          "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "MISTLETOE AND HOLLY",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
+          "page": 132,
+          "num_pages": 1,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 149,
           "num_pages": 1,
           "file": "xmas-2nd-Bb.pdf"
         }
@@ -30662,46 +30696,12 @@
       "versions": {
         "C": {
           "page": 137,
-          "num_pages": -5,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 147,
           "num_pages": 2,
-          "file": "xmas-2nd-Bb.pdf"
-        }
-      }
-    },
-    {
-      "title": "MISTLETOE AND HOLLY",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 132,
-          "num_pages": 7,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 149,
-          "num_pages": -11,
-          "file": "xmas-2nd-Bb.pdf"
-        }
-      }
-    },
-    {
-      "title": "THE MOST WONDERFUL DAY OF THE YEAR",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 139,
-          "num_pages": 2,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 138,
-          "num_pages": 15,
           "file": "xmas-2nd-Bb.pdf"
         }
       }
@@ -30718,8 +30718,25 @@
         },
         "Bb": {
           "page": 153,
-          "num_pages": -3,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
+        }
+      }
+    },
+    {
+      "title": "NOEL! NOEL!",
+      "volume": "x",
+      "edition": 1,
+      "versions": {
+        "C": {
+          "page": 144,
+          "num_pages": 1,
+          "file": "xmas-1st-c.pdf"
+        },
+        "Bb": {
+          "page": 159,
+          "num_pages": 1,
+          "file": "xmas-2nd-bb.pdf"
         }
       }
     },
@@ -30747,30 +30764,13 @@
       "versions": {
         "C": {
           "page": 147,
-          "num_pages": -3,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
           "page": 157,
-          "num_pages": 1,
+          "num_pages": 2,
           "file": "xmas-2nd-Bb.pdf"
-        }
-      }
-    },
-    {
-      "title": "NOEL! NOEL!",
-      "volume": "x",
-      "edition": 1,
-      "versions": {
-        "C": {
-          "page": 144,
-          "num_pages": 1,
-          "file": "xmas-1st-c.pdf"
-        },
-        "Bb": {
-          "page": 159,
-          "num_pages": 1,
-          "file": "xmas-2nd-bb.pdf"
         }
       }
     },
@@ -31026,7 +31026,7 @@
       "versions": {
         "C": {
           "page": 169,
-          "num_pages": -1,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
@@ -31043,7 +31043,7 @@
       "versions": {
         "C": {
           "page": 168,
-          "num_pages": 3,
+          "num_pages": 1,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {
@@ -31169,7 +31169,7 @@
       "versions": {
         "C": {
           "page": 177,
-          "num_pages": -1,
+          "num_pages": 2,
           "file": "xmas-1st-c.pdf"
         },
         "Bb": {

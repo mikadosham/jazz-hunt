@@ -648,3 +648,26 @@ li:last-child {
   position: relative;
   bottom: 70px;
 }
+
+.carousel-root {
+  flex-direction: row;
+  display: flex;
+}
+
+.carousel.carousel-slider {
+  flex: none;
+}
+
+.carousel .thumbs {
+  padding-left: 8px;
+  display: contents;
+}
+
+.carousel .thumbs-wrapper {
+  top: 25px;
+  position: absolute;
+}
+
+.single-image {
+  width: -webkit-fill-available;
+}

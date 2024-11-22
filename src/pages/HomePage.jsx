@@ -197,18 +197,29 @@ function HomePage() {
               />
             </div>
             <div className={"carousel-container"}>
-              <Carousel
-                showArrows={true}
-                emulateTouch={true}
-                renderIndicator={() => null}
-                dynamicHeight={false}
-              >
-                {pages.map((page, index) => (
-                  <div key={index}>
-                    <img src={page} alt={`Page ${index + 1}`} />
-                  </div>
-                ))}
-              </Carousel>
+              {pages.length > 1 ? (
+                <Carousel
+                  showArrows={true}
+                  emulateTouch={true}
+                  renderIndicator={() => null}
+                  dynamicHeight={false}
+                  showThumbs={true} // Enable thumbnails only for multiple slides
+                >
+                  {pages.map((page, index) => (
+                    <div key={index}>
+                      <img src={page} alt={`Page ${index + 1}`} />
+                    </div>
+                  ))}
+                </Carousel>
+              ) : (
+                <div>
+                  <img
+                    className="single-image"
+                    src={pages[0]}
+                    alt="Single Page"
+                  />
+                </div>
+              )}
             </div>
           </div>
         )
